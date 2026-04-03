@@ -1,0 +1,101 @@
+nom|price|stock|EAN
+Ciseaux 17cm|7.08|9|6767275697
+Ciseaux asymétrique bi-matière 21cm|2.17|10|5594579884
+Ciseaux symétriques bleu 13cm|15.14|1|3868453794
+Ciseaux à ongles bouts droits GI 150|2.15|13|2292157988
+Colle cléomousse adhésive 25g + recharge adhésive 100g|6.92|0|1211318674
+Colle Strong & Safe|4.47|11|4331749985
+Colle forte Super Glue-3 Gel Power Flex|15.41|9|8179213578
+Colle stick blanc 8,2 g (5)|3.21|2|6257109619
+Pile Alcaline AA/LR6 1,5 V MX1500 Optimum (4)|9.28|12|3072168028
+Pile Alcaline MN1604/6LR61 9V Plus|13.63|2|4026167838
+Pile Bouton Alcaline LR44 1,5V (4)|16.6|14|9571602599
+Pile Alcaline LR6/AA 1,5V Plus Power (20)|4.86|1|2341511546
+Pile AA18/LR6 plus (18)|9.41|1|2851827696
+Adhésif ruban adhésif marron|5.73|8|8971324694
+Ruban adhésif spécial cartons 100m|5.1|0|9210517783
+Ruban adhésif adhésif invisible 25mx19mm x2 |7.76|9|9696926946
+Ruban adhésif transparent avec dévidoir 25m|9.29|6|3848618855
+Ruban adhésif rouleau scotch transparent|7.33|4|2310818453
+Stylo bille cristal noir x 5|16.77|9|9261800656
+Stylo bille cristal assortis x27|16.35|3|2864715175
+Stylo-bille "original" pointe moyenne|10.47|11|3471179971
+Stylo bille cristal noir x10 |9.95|0|2375069965
+Stylo bille cristal bleu x 5|3.02|0|8263886415
+Stylo bille cristal soft bleu x |11.69|1|8101409704
+Stylo bille 4 couleurs rétractable|7.47|13|9062903550
+Stylo pointe moyenne|6.47|12|1015884889
+Stylo gel assortis x 30|13.17|7|1055891972
+Eplucheur bois|19.99|11|4288873776
+Econome simple en inox|6.66|3|2562763824
+Eplucheur inox|14.75|3|6635717189
+Eplucheur Fresh Kitchen|2.6|10|9548579909
+Eplucheur Evolution inox|17.46|4|9508805111
+Couteau de poche en bois naturel|19.27|0|4788965642
+Couteau office 8cm Ceramic|5.14|8|8187430642
+Couteau lame céramique 15 cm|19.11|7|9268473706
+Couteaux steak 10cm Ceramic|7.51|9|2664069655
+Couteau office manche olivier|4.14|10|2137001400
+Couteau de cuisine 17 cm Chef|13.72|15|2348641926
+Couteau à huîtres|9.88|5|1159719214
+Fourchette à viande inox |3.89|1|1109524419
+Couteau de peintre 6cm|7.81|12|2970173926
+Couteau à enduire 10cm |5.84|8|6264098706
+Couvert plastique fourchette couteau cuillère x6 |12.91|11|6741997203
+Couteau rouge|18.48|3|3630899483
+Cuillère à café (6)|3.67|14|6939143570
+Couvert asiatique baguettes (2)|9.15|9|1958806519
+Tournevis De Précision|15.58|14|4431817653
+Lot De 4 Tournevis Multiusage Mixte|18.51|12|2909645250
+Tournevis De Précision Professionnel|2.6|7|2694418434
+Jeu De Tournevis Bi-matière |9.91|4|7123254322
+Tournevis Tx T27 |13.6|1|5624477017
+Tournevis Tx T7 |6.15|6|4962868362
+Tournevis D'électricien Edm Testeur |14.34|3|5238787457
+Crayon graphite metallic x8|18.07|6|3697358217
+Crayon graphite "Easygraph"pour droitier X2|3.56|5|7227548640
+Crayon graphite "original" HB x15 + 1 gomme|13.25|10|2570951097
+Crayon à papier HP x4|5.19|1|5562764680
+Crayon graphite criterium 550 2b x 3|17.32|3|3717542594
+Gomme plastique x 2|18.04|1|4980803408
+Gomme technic premium|8.46|9|7047719422
+Gomme nettoyante magic Original|11.0|7|2806641963
+Gomme mini London bleu (3)|7.47|14|3787621885
+Gomme protection|14.62|15|3053152725
+Clé USB 3.0 Ultra 32 Go|9.8|5|9739578373
+Clé USB 2.0 Attaché 4 16 Go|11.83|2|4169762873
+Clé USB 2.0 Attaché 4 32 Go|2.28|9|1825364746
+Clé USB 3.0 Ultra 64 Go|4.39|0|7649506557
+Clé USB 3.0 Ultra 128 Go|2.48|14|3066545314
+Clé USB 3.1 Ultra Fit 512 Go|14.88|5|5634410072
+Disque dur externe 2,5" Elements 2 To|3.18|9|9291852826
+Disque dur externe EXPANSION PORTABLE 2,5" 2 To|13.47|11|5159064560
+Disque dur externe 2,5" Elements 4 To|16.12|11|8676335055
+Disque dur externe 2,5" Elements 5 To|12.65|15|7423567788
+Câble de charge et synchronisation iPhone / iPad|8.62|3|2822543471
+Câble USB C PSC-1TBK-19 - Noir|5.6|1|5834628197
+Câble de connexion PSL-1T - Argent|17.43|0|1817714541
+Câble de connexion PSL-1T - Rose|13.09|1|4654402184
+Câble de connexion PSMICRO-1T - Noir|13.66|7|9131087926
+Câble de connexion PSL-1T - Noir|11.28|1|9887081687
+Câble audio noir|18.13|15|5985082515
+Câble HDMI noir|8.71|13|2491498028
+Notes repositionnables 76x76 mm assortis 2X100|17.96|2|6827982441
+Bloc notes couleurs Rio 76 x 76 mm|19.51|9|6331739630
+Bloc notes 400 notes adhésives repositionnables|8.59|9|6067683967
+Feutre d'écriture assortis POINT 88 pointe fine x20|1.43|12|4347273884
+Surligneur boss original - jaune|9.43|5|5711932393
+Surligneur boss original - bleu|8.97|5|4690640663
+Surligneur Boss Original Pastel pêche|4.62|10|7326570977
+Feutre de coloriage Pen 68|6.15|10|6323257675
+Tasse à café Nuevo verre|7.89|6|4780138138
+Tasse 12.5 cl bistrot noir en grès |7.45|11|2040877408
+Tasse espresso|11.49|8|3279500068
+Tasse à expresso 7 cm blanc|12.7|4|8258351182
+Tasse bleu|11.74|10|7599656483
+Mug Mazagran 12,5 cL|9.97|4|6536090441
+Assiette plate 26,5cm gris x4|2.41|12|7242005149
+Assiette dessert 19cm gris x4|2.35|5|5756537996
+Plat rectangulaire en pocelaine - 40x20cm |19.92|14|1178877393
+Assiettes en carton 18cm taupe x16|1.37|14|7658696965
+Assiette plate en procelaine - motif fleurs - x4|5.77|11|8046068375

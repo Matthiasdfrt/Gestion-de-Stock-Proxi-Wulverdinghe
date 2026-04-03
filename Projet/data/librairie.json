@@ -1,0 +1,3755 @@
+[
+    {
+        "title": "Unlocking Android",
+        "isbn": "1933988673",
+        "publishedDate": "2009-04-01T00:00:00.000-0700",
+        "authors": [
+            "W. Frank Ableson",
+            "Charlie Collins",
+            "Robi Sen"
+        ],
+        "price": 48.4,
+        "stock": 8,
+        "EAN": 6041480251
+    },
+    {
+        "title": "Android in Action, Second Edition",
+        "isbn": "1935182722",
+        "publishedDate": "2011-01-14T00:00:00.000-0800",
+        "authors": [
+            "W. Frank Ableson",
+            "Robi Sen"
+        ],
+        "price": 37.66,
+        "stock": 4,
+        "EAN": 9842404653
+    },
+    {
+        "title": "Specification by Example",
+        "isbn": "1617290084",
+        "publishedDate": "2011-06-03T00:00:00.000-0700",
+        "authors": [
+            "Gojko Adzic"
+        ],
+        "price": 10.13,
+        "stock": 0,
+        "EAN": 7953788422
+    },
+    {
+        "title": "Flex 3 in Action",
+        "isbn": "1933988746",
+        "publishedDate": "2009-02-02T00:00:00.000-0800",
+        "authors": [
+            "Tariq Ahmed with Jon Hirschi",
+            "Faisal Abid"
+        ],
+        "price": 18.73,
+        "stock": 2,
+        "EAN": 9243055259
+    },
+    {
+        "title": "Flex 4 in Action",
+        "isbn": "1935182420",
+        "publishedDate": "2010-11-15T00:00:00.000-0800",
+        "authors": [
+            "Tariq Ahmed",
+            "Dan Orlando",
+            "John C. Bland II",
+            "Joel Hooks"
+        ],
+        "price": 49.55,
+        "stock": 4,
+        "EAN": 3716292503
+    },
+    {
+        "title": "Collective Intelligence in Action",
+        "isbn": "1933988312",
+        "publishedDate": "2008-10-01T00:00:00.000-0700",
+        "authors": [
+            "Satnam Alag"
+        ],
+        "price": 10.46,
+        "stock": 2,
+        "EAN": 8514041510
+    },
+    {
+        "title": "Zend Framework in Action",
+        "isbn": "1933988320",
+        "publishedDate": "2008-12-01T00:00:00.000-0800",
+        "authors": [
+            "Rob Allen",
+            "Nick Lo",
+            "Steven Brown"
+        ],
+        "price": 15.93,
+        "stock": 6,
+        "EAN": 6266432884
+    },
+    {
+        "title": "Flex on Java",
+        "isbn": "1933988797",
+        "publishedDate": "2010-10-15T00:00:00.000-0700",
+        "authors": [
+            "Bernerd Allmon",
+            "Jeremy Anderson"
+        ],
+        "price": 20.37,
+        "stock": 1,
+        "EAN": 3071155778
+    },
+    {
+        "title": "Griffon in Action",
+        "isbn": "1935182234",
+        "publishedDate": "2012-06-04T00:00:00.000-0700",
+        "authors": [
+            "Andres Almiray",
+            "Danno Ferrin",
+            "",
+            "James Shingler"
+        ],
+        "price": 4.11,
+        "stock": 1,
+        "EAN": 4952717862
+    },
+    {
+        "title": "OSGi in Depth",
+        "isbn": "193518217X",
+        "publishedDate": "2011-12-12T00:00:00.000-0800",
+        "authors": [
+            "Alexandre de Castro Alves"
+        ],
+        "price": 6.77,
+        "stock": 0,
+        "EAN": 1762082276
+    },
+    {
+        "title": "Flexible Rails",
+        "isbn": "1933988509",
+        "publishedDate": "2008-01-01T00:00:00.000-0800",
+        "authors": [
+            "Peter Armstrong"
+        ],
+        "price": 47.47,
+        "stock": 8,
+        "EAN": 9923816224
+    },
+    {
+        "title": "Hello! Flex 4",
+        "isbn": "1933988762",
+        "publishedDate": "2009-11-01T00:00:00.000-0700",
+        "authors": [
+            "Peter Armstrong"
+        ],
+        "price": 19.53,
+        "stock": 4,
+        "EAN": 6340826164
+    },
+    {
+        "title": "Coffeehouse",
+        "isbn": "1884777384",
+        "publishedDate": "1997-07-01T00:00:00.000-0700",
+        "authors": [
+            "Levi Asher",
+            "Christian Crumlish"
+        ],
+        "price": 9.83,
+        "stock": 1,
+        "EAN": 3052478791
+    },
+    {
+        "title": "Team Foundation Server 2008 in Action",
+        "isbn": "1933988592",
+        "publishedDate": "2008-12-01T00:00:00.000-0800",
+        "authors": [
+            "Jamil Azher"
+        ],
+        "price": 39.18,
+        "stock": 8,
+        "EAN": 3789013962
+    },
+    {
+        "title": "Brownfield Application Development in .NET",
+        "isbn": "1933988711",
+        "publishedDate": "2010-04-16T00:00:00.000-0700",
+        "authors": [
+            "Kyle Baley",
+            "Donald Belcham"
+        ],
+        "price": 28.59,
+        "stock": 7,
+        "EAN": 1596231166
+    },
+    {
+        "title": "MongoDB in Action",
+        "isbn": "1935182870",
+        "publishedDate": "2011-12-12T00:00:00.000-0800",
+        "authors": [
+            "Kyle Banker"
+        ],
+        "price": 36.43,
+        "stock": 6,
+        "EAN": 8921504591
+    },
+    {
+        "title": "Distributed Application Development with PowerBuilder 6.0",
+        "isbn": "1884777686",
+        "publishedDate": "1998-06-01T00:00:00.000-0700",
+        "authors": [
+            "Michael J. Barlotta"
+        ],
+        "price": 14.91,
+        "stock": 5,
+        "EAN": 5545738856
+    },
+    {
+        "title": "Jaguar Development with PowerBuilder 7",
+        "isbn": "1884777864",
+        "publishedDate": "1999-08-01T00:00:00.000-0700",
+        "authors": [
+            "Michael Barlotta"
+        ],
+        "price": 34.25,
+        "stock": 5,
+        "EAN": 4769082291
+    },
+    {
+        "title": "Taming Jaguar",
+        "isbn": "1884777686",
+        "publishedDate": "2000-07-01T00:00:00.000-0700",
+        "authors": [
+            "Michael J. Barlotta",
+            "Jason R. Weiss"
+        ],
+        "price": 25.37,
+        "stock": 4,
+        "EAN": 9468677417
+    },
+    {
+        "title": "3D User Interfaces with Java 3D",
+        "isbn": "1884777902",
+        "publishedDate": "2000-08-01T00:00:00.000-0700",
+        "authors": [
+            "Jon Barrilleaux"
+        ],
+        "price": 34.55,
+        "stock": 3,
+        "EAN": 8687856267
+    },
+    {
+        "title": "Hibernate in Action",
+        "isbn": "193239415X",
+        "publishedDate": "2004-08-01T00:00:00.000-0700",
+        "authors": [
+            "Christian Bauer",
+            "Gavin King"
+        ],
+        "price": 47.34,
+        "stock": 10,
+        "EAN": 8131407216
+    },
+    {
+        "title": "Java Persistence with Hibernate",
+        "isbn": "1932394885",
+        "publishedDate": "2006-11-01T00:00:00.000-0800",
+        "authors": [
+            "Christian Bauer",
+            "Gavin King"
+        ],
+        "price": 35.29,
+        "stock": 7,
+        "EAN": 8483887662
+    },
+    {
+        "title": "JSTL in Action",
+        "isbn": "1930110529",
+        "publishedDate": "2002-07-01T00:00:00.000-0700",
+        "authors": [
+            "Shawn Bayern"
+        ],
+        "price": 41.73,
+        "stock": 1,
+        "EAN": 7889655121
+    },
+    {
+        "title": "iBATIS in Action",
+        "isbn": "1932394826",
+        "publishedDate": "2007-01-01T00:00:00.000-0800",
+        "authors": [
+            "Clinton Begin",
+            "Brandon Goodin",
+            "Larry Meadors"
+        ],
+        "price": 8.38,
+        "stock": 6,
+        "EAN": 4241897927
+    },
+    {
+        "title": "Designing Hard Software",
+        "isbn": "133046192",
+        "publishedDate": "1997-02-01T00:00:00.000-0800",
+        "authors": [
+            "Douglas W. Bennett"
+        ],
+        "price": 9.45,
+        "stock": 10,
+        "EAN": 4039803040
+    },
+    {
+        "title": "Hibernate Search in Action",
+        "isbn": "1933988649",
+        "publishedDate": "2008-12-21T00:00:00.000-0800",
+        "authors": [
+            "Emmanuel Bernard",
+            "John Griffin"
+        ],
+        "price": 44.23,
+        "stock": 2,
+        "EAN": 3281929232
+    },
+    {
+        "title": "jQuery in Action",
+        "isbn": "1933988355",
+        "publishedDate": "2008-01-01T00:00:00.000-0800",
+        "authors": [
+            "Bear Bibeault",
+            "Yehuda Katz"
+        ],
+        "price": 49.89,
+        "stock": 9,
+        "EAN": 6163258629
+    },
+    {
+        "title": "jQuery in Action, Second Edition",
+        "isbn": "1935182323",
+        "publishedDate": "2010-06-01T00:00:00.000-0700",
+        "authors": [
+            "Bear Bibeault",
+            "Yehuda Katz"
+        ],
+        "price": 27.4,
+        "stock": 5,
+        "EAN": 8722708262
+    },
+    {
+        "title": "Building Secure and Reliable Network Applications",
+        "isbn": "1884777295",
+        "publishedDate": "1996-01-01T00:00:00.000-0800",
+        "authors": [
+            "Kenneth P. Birman"
+        ],
+        "price": 2.47,
+        "stock": 4,
+        "EAN": 4892948285
+    },
+    {
+        "title": "Ruby for Rails",
+        "isbn": "1932394699",
+        "publishedDate": "2006-05-01T00:00:00.000-0700",
+        "authors": [
+            "David A. Black"
+        ],
+        "price": 44.15,
+        "stock": 8,
+        "EAN": 4161599673
+    },
+    {
+        "title": "The Well-Grounded Rubyist",
+        "isbn": "1933988657",
+        "publishedDate": "2009-04-01T00:00:00.000-0700",
+        "authors": [
+            "David A. Black"
+        ],
+        "price": 25.51,
+        "stock": 5,
+        "EAN": 9772958612
+    },
+    {
+        "title": "Website Owner's Manual",
+        "isbn": "1933988452",
+        "publishedDate": "2009-10-01T00:00:00.000-0700",
+        "authors": [
+            "Paul A. Boag"
+        ],
+        "price": 33.15,
+        "stock": 7,
+        "EAN": 8603209916
+    },
+    {
+        "title": "ASP.NET 4.0 in Practice",
+        "isbn": "1935182463",
+        "publishedDate": "2011-05-15T00:00:00.000-0700",
+        "authors": [
+            "Daniele Bochicchio",
+            "Stefano Mostarda",
+            "",
+            "Marco De Sanctis"
+        ],
+        "price": 4.06,
+        "stock": 3,
+        "EAN": 9782431093
+    },
+    {
+        "title": "Hello! Python",
+        "isbn": "1935182080",
+        "publishedDate": "2012-02-13T00:00:00.000-0800",
+        "authors": [
+            "Anthony Briggs"
+        ],
+        "price": 42.22,
+        "stock": 9,
+        "EAN": 4576768284
+    },
+    {
+        "title": "PFC Programmer's Reference Manual",
+        "isbn": "1884777554",
+        "publishedDate": "1998-06-01T00:00:00.000-0700",
+        "authors": [
+            "Richard Brooks"
+        ],
+        "price": 25.97,
+        "stock": 10,
+        "EAN": 3178382623
+    },
+    {
+        "title": "Graphics File Formats",
+        "isbn": "133034054",
+        "publishedDate": "1995-06-01T00:00:00.000-0700",
+        "authors": [
+            "C. Wayne Brown",
+            "Barry J. Shepherd"
+        ],
+        "price": 16.24,
+        "stock": 9,
+        "EAN": 3847397497
+    },
+    {
+        "title": "Visual Object Oriented Programming",
+        "isbn": "131723979",
+        "publishedDate": "1995-02-01T00:00:00.000-0800",
+        "authors": [
+            "Margaret M. Burnett",
+            "Adele Goldberg",
+            "",
+            "Ted G. Lewis"
+        ],
+        "price": 26.74,
+        "stock": 0,
+        "EAN": 4253980436
+    },
+    {
+        "title": "iOS in Practice",
+        "isbn": "1617291269",
+        "publishedDate": "2013-11-01T00:00:00.000-0700",
+        "authors": [
+            "Bear P. Cahill"
+        ],
+        "price": 2.34,
+        "stock": 10,
+        "EAN": 8179655534
+    },
+    {
+        "title": "iPhone in Action",
+        "isbn": "193398886X",
+        "publishedDate": "2008-12-01T00:00:00.000-0800",
+        "authors": [
+            "Christopher Allen",
+            "Shannon Appelcline"
+        ],
+        "price": 8.57,
+        "stock": 2,
+        "EAN": 7955410837
+    },
+    {
+        "title": "Silverlight 2 in Action",
+        "isbn": "1933988428",
+        "publishedDate": "2008-10-31T00:00:00.000-0700",
+        "authors": [
+            "Chad A. Campbell",
+            "John Stockton"
+        ],
+        "price": 7.84,
+        "stock": 9,
+        "EAN": 1258715814
+    },
+    {
+        "title": "The Quick Python Book, Second Edition",
+        "isbn": "193518220X",
+        "publishedDate": "2010-01-01T00:00:00.000-0800",
+        "authors": [
+            "Naomi R. Ceder"
+        ],
+        "price": 41.23,
+        "stock": 4,
+        "EAN": 1563212920
+    },
+    {
+        "title": "Internet and Intranet Applications with PowerBuilder 6",
+        "isbn": "1884777600",
+        "publishedDate": "2000-12-01T00:00:00.000-0800",
+        "authors": [
+            "Tom Cervenka"
+        ],
+        "price": 20.97,
+        "stock": 7,
+        "EAN": 7272003412
+    },
+    {
+        "title": "Practical Methods for Your Year 2000 Problem",
+        "isbn": "188477752X",
+        "publishedDate": "1998-01-01T00:00:00.000-0800",
+        "authors": [
+            "Robert Chapman"
+        ],
+        "price": 38.97,
+        "stock": 5,
+        "EAN": 7379492918
+    },
+    {
+        "title": "Mobile Agents",
+        "isbn": "1884777368",
+        "publishedDate": "1997-03-01T00:00:00.000-0800",
+        "authors": [
+            "William R. Cockayne and Michael Zyda",
+            "editors"
+        ],
+        "price": 34.86,
+        "stock": 5,
+        "EAN": 8669641563
+    },
+    {
+        "title": "Spring Dynamic Modules in Action",
+        "isbn": "1935182307",
+        "publishedDate": "2010-09-04T00:00:00.000-0700",
+        "authors": [
+            "Arnaud Cogoluegnes",
+            "Thierry Templier",
+            "",
+            "Andy Piper"
+        ],
+        "price": 18.54,
+        "stock": 0,
+        "EAN": 8480915099
+    },
+    {
+        "title": "SQL Server 2008 Administration in Action",
+        "isbn": "193398872X",
+        "publishedDate": "2009-08-01T00:00:00.000-0700",
+        "authors": [
+            "Rod Colledge"
+        ],
+        "price": 39.09,
+        "stock": 6,
+        "EAN": 9640260100
+    },
+    {
+        "title": "Android in Practice",
+        "isbn": "1935182927",
+        "publishedDate": "2011-09-30T00:00:00.000-0700",
+        "authors": [
+            "Charlie Collins",
+            "Michael D. Galpin",
+            "",
+            "Matthias Kaeppler"
+        ],
+        "price": 43.71,
+        "stock": 9,
+        "EAN": 2328730317
+    },
+    {
+        "title": "Object Oriented Perl",
+        "isbn": "1884777791",
+        "publishedDate": "1999-08-01T00:00:00.000-0700",
+        "authors": [
+            "Damian Conway"
+        ],
+        "price": 21.71,
+        "stock": 4,
+        "EAN": 8866058963
+    },
+    {
+        "title": "GWT in Practice",
+        "isbn": "1933988290",
+        "publishedDate": "2008-04-01T00:00:00.000-0700",
+        "authors": [
+            "Robert Cooper",
+            "Charles Collins"
+        ],
+        "price": 25.87,
+        "stock": 2,
+        "EAN": 2869028840
+    },
+    {
+        "title": "Ajax in Action",
+        "isbn": "1932394613",
+        "publishedDate": "2005-10-01T00:00:00.000-0700",
+        "authors": [
+            "Dave Crane",
+            "Eric Pascarello with Darren James"
+        ],
+        "price": 18.78,
+        "stock": 5,
+        "EAN": 3270869622
+    },
+    {
+        "title": "Ajax in Practice",
+        "isbn": "1932394990",
+        "publishedDate": "2007-06-01T00:00:00.000-0700",
+        "authors": [
+            "Dave Crane",
+            "Jord Sonneveld and Bear Bibeault with Ted Goddard",
+            "Chris Gray",
+            "Ram Venkataraman",
+            "Joe Walker"
+        ],
+        "price": 38.23,
+        "stock": 6,
+        "EAN": 4440244203
+    },
+    {
+        "title": "Prototype and Scriptaculous in Action",
+        "isbn": "1933988037",
+        "publishedDate": "2007-04-01T00:00:00.000-0700",
+        "authors": [
+            "Dave Crane",
+            "Bear Bibeault with Tom Locke"
+        ],
+        "price": 44.85,
+        "stock": 1,
+        "EAN": 3517945276
+    },
+    {
+        "title": "POJOs in Action",
+        "isbn": "1932394583",
+        "publishedDate": "2006-01-01T00:00:00.000-0800",
+        "authors": [
+            "Chris Richardson"
+        ],
+        "price": 6.38,
+        "stock": 9,
+        "EAN": 3242234911
+    },
+    {
+        "title": "Data Munging with Perl",
+        "isbn": "1930110006",
+        "publishedDate": "2001-01-01T00:00:00.000-0800",
+        "authors": [
+            "David Cross"
+        ],
+        "price": 37.55,
+        "stock": 1,
+        "EAN": 9614178926
+    },
+    {
+        "title": "Hello! HTML5 & CSS3",
+        "isbn": "1935182897",
+        "publishedDate": "2012-10-17T00:00:00.000-0700",
+        "authors": [
+            "Rob Crowther"
+        ],
+        "price": 43.38,
+        "stock": 0,
+        "EAN": 5282899437
+    },
+    {
+        "title": "Seam in Action",
+        "isbn": "1933988401",
+        "publishedDate": "2008-08-01T00:00:00.000-0700",
+        "authors": [
+            "Dan Allen"
+        ],
+        "price": 30.07,
+        "stock": 4,
+        "EAN": 7409299904
+    },
+    {
+        "title": "Wicket in Action",
+        "isbn": "1932394982",
+        "publishedDate": "2008-08-01T00:00:00.000-0700",
+        "authors": [
+            "Martijn Dashorst",
+            "Eelco Hillenius"
+        ],
+        "price": 21.84,
+        "stock": 2,
+        "EAN": 7509473003
+    },
+    {
+        "title": "Open Source SOA",
+        "isbn": "1933988541",
+        "publishedDate": "2009-05-01T00:00:00.000-0700",
+        "authors": [
+            "Jeff Davis"
+        ],
+        "price": 2.59,
+        "stock": 7,
+        "EAN": 5185416349
+    },
+    {
+        "title": "Struts 2 in Action",
+        "isbn": "193398807X",
+        "publishedDate": "2008-05-01T00:00:00.000-0700",
+        "authors": [
+            "Donald Brown",
+            "Chad Michael Davis",
+            "",
+            "Scott Stanlick"
+        ],
+        "price": 8.0,
+        "stock": 7,
+        "EAN": 2921345946
+    },
+    {
+        "title": "Essential Guide to Peoplesoft Development and Customization",
+        "isbn": "1884777929",
+        "publishedDate": "2000-08-01T00:00:00.000-0700",
+        "authors": [
+            "Tony DeLia",
+            "Galina Landres",
+            "Isidor Rivera",
+            "Prakash Sankaran"
+        ],
+        "price": 20.9,
+        "stock": 6,
+        "EAN": 8480309254
+    },
+    {
+        "title": ".NET Multithreading",
+        "isbn": "1930110545",
+        "publishedDate": "2002-11-01T00:00:00.000-0800",
+        "authors": [
+            "Alan Dennis"
+        ],
+        "price": 20.89,
+        "stock": 2,
+        "EAN": 2107013687
+    },
+    {
+        "title": "SCWCD Exam Study Kit Second Edition",
+        "isbn": "1932394389",
+        "publishedDate": "2005-05-01T00:00:00.000-0700",
+        "authors": [
+            "Hanumant Deshmukh",
+            "Jignesh Malavia",
+            "",
+            "Matthew Scarpino"
+        ],
+        "price": 34.93,
+        "stock": 6,
+        "EAN": 8816077570
+    },
+    {
+        "title": "Spring Roo in Action",
+        "isbn": "193518296X",
+        "publishedDate": "2012-04-13T00:00:00.000-0700",
+        "authors": [
+            "Ken Rimple",
+            "Srini Penchikala"
+        ],
+        "price": 3.48,
+        "stock": 0,
+        "EAN": 7455859103
+    },
+    {
+        "title": "SOA Governance in Action",
+        "isbn": "1617290270",
+        "publishedDate": "2012-07-27T00:00:00.000-0700",
+        "authors": [
+            "Jos Dirksen"
+        ],
+        "price": 22.43,
+        "stock": 7,
+        "EAN": 9808125797
+    },
+    {
+        "title": "RSS and Atom in Action",
+        "isbn": "1932394494",
+        "publishedDate": "2006-03-01T00:00:00.000-0800",
+        "authors": [
+            "Dave Johnson"
+        ],
+        "price": 35.66,
+        "stock": 1,
+        "EAN": 7364481057
+    },
+    {
+        "title": "LDAP Programming, Management and Integration",
+        "isbn": "1930110405",
+        "publishedDate": "2002-11-01T00:00:00.000-0800",
+        "authors": [
+            "Clayton Donley"
+        ],
+        "price": 40.73,
+        "stock": 5,
+        "EAN": 7958516023
+    },
+    {
+        "title": "Mule in Action",
+        "isbn": "1933988967",
+        "publishedDate": "2009-07-01T00:00:00.000-0700",
+        "authors": [
+            "David Dossot",
+            "John D'Emic"
+        ],
+        "price": 29.12,
+        "stock": 2,
+        "EAN": 8677290576
+    },
+    {
+        "title": "Java Foundation Classes",
+        "isbn": "1884777678",
+        "publishedDate": "2001-10-01T00:00:00.000-0700",
+        "authors": [
+            "Stephen C. Drye",
+            "William C. Wake"
+        ],
+        "price": 8.29,
+        "stock": 6,
+        "EAN": 5062203949
+    },
+    {
+        "title": "Managing Components with Modeler",
+        "isbn": "1932394524k-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 27.98,
+        "stock": 6,
+        "EAN": 9188095401
+    },
+    {
+        "title": "Command-line Processing with CLI",
+        "isbn": "1932394524l-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 40.35,
+        "stock": 4,
+        "EAN": 3961203937
+    },
+    {
+        "title": "Understanding and Using Chain",
+        "isbn": "1932394524m-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 46.68,
+        "stock": 4,
+        "EAN": 1304147215
+    },
+    {
+        "title": "Working with the Logging and Discovery Components",
+        "isbn": "1932394524n-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 31.46,
+        "stock": 1,
+        "EAN": 7972158469
+    },
+    {
+        "title": "Uploading files with FileUpload",
+        "isbn": "1932394524b-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 48.98,
+        "stock": 9,
+        "EAN": 9489597664
+    },
+    {
+        "title": "Handling Protocols with the Net Component",
+        "isbn": "1932394524c-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 18.05,
+        "stock": 5,
+        "EAN": 8396490818
+    },
+    {
+        "title": "XML Parsing with Digester",
+        "isbn": "1932394524d-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 24.69,
+        "stock": 10,
+        "EAN": 2987525090
+    },
+    {
+        "title": "JXPath and Betwixt: Working with XML",
+        "isbn": "1932394524e-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 2.77,
+        "stock": 4,
+        "EAN": 2932241412
+    },
+    {
+        "title": "Validating Data with Validator",
+        "isbn": "1932394524f-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 14.96,
+        "stock": 4,
+        "EAN": 8032888946
+    },
+    {
+        "title": "Enhancing Java Core Libraries with Collections",
+        "isbn": "1932394524g-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 16.62,
+        "stock": 10,
+        "EAN": 2406605168
+    },
+    {
+        "title": "Enhancing Java Core Libraries with BeanUtils and Lang",
+        "isbn": "1932394524h-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 38.57,
+        "stock": 9,
+        "EAN": 9497466372
+    },
+    {
+        "title": "Pool and DBCP: Creating and Using Object Pools",
+        "isbn": "1932394524i-e",
+        "publishedDate": "2005-03-01T00:00:00.000-0800",
+        "authors": [
+            "Vikram Goyal"
+        ],
+        "price": 42.56,
+        "stock": 2,
+        "EAN": 6015829515
+    },
+    {
+        "title": "Python and Tkinter Programming",
+        "isbn": "1884777813",
+        "publishedDate": "2000-01-01T00:00:00.000-0800",
+        "authors": [
+            "John E. Grayson"
+        ],
+        "price": 7.06,
+        "stock": 2,
+        "EAN": 6914285311
+    },
+    {
+        "title": "Microsoft.NET for Programmers",
+        "isbn": "1930110197",
+        "publishedDate": "2002-12-01T00:00:00.000-0800",
+        "authors": [
+            "Fergal Grimes"
+        ],
+        "price": 45.79,
+        "stock": 5,
+        "EAN": 2824109160
+    },
+    {
+        "title": "Grails in Action",
+        "isbn": "1933988932",
+        "publishedDate": "2009-05-01T00:00:00.000-0700",
+        "authors": [
+            "Glen Smith",
+            "Peter Ledbrook"
+        ],
+        "price": 32.05,
+        "stock": 6,
+        "EAN": 9145313270
+    },
+    {
+        "title": "Up to Speed with Swing, Second Edition",
+        "isbn": "1884777759",
+        "publishedDate": "1999-10-01T00:00:00.000-0700",
+        "authors": [
+            "Steven Gutz"
+        ],
+        "price": 45.8,
+        "stock": 0,
+        "EAN": 5186732882
+    },
+    {
+        "title": "OSGi in Action",
+        "isbn": "1933988916",
+        "publishedDate": "2011-04-06T00:00:00.000-0700",
+        "authors": [
+            "Richard S. Hall",
+            "Karl Pauls",
+            "Stuart McCulloch",
+            "",
+            "David Savage"
+        ],
+        "price": 36.26,
+        "stock": 8,
+        "EAN": 2711461771
+    },
+    {
+        "title": "GWT in Action",
+        "isbn": "1933988231",
+        "publishedDate": "2007-06-01T00:00:00.000-0700",
+        "authors": [
+            "Robert Hanson",
+            "Adam Tacy"
+        ],
+        "price": 27.88,
+        "stock": 2,
+        "EAN": 3165048880
+    },
+    {
+        "title": "The Quick Python Book",
+        "isbn": "1884777740",
+        "publishedDate": "1999-10-01T00:00:00.000-0700",
+        "authors": [
+            "Daryl Harms",
+            "Kenneth McDonald"
+        ],
+        "price": 2.17,
+        "stock": 0,
+        "EAN": 5593785771
+    },
+    {
+        "title": "SharePoint 2010 Site Owner's Manual",
+        "isbn": "1933988754",
+        "publishedDate": "2012-02-13T00:00:00.000-0800",
+        "authors": [
+            "Yvonne M. Harryman"
+        ],
+        "price": 28.33,
+        "stock": 3,
+        "EAN": 8843122224
+    },
+    {
+        "title": "Java Development with Ant",
+        "isbn": "1930110588",
+        "publishedDate": "2002-08-01T00:00:00.000-0700",
+        "authors": [
+            "Erik Hatcher",
+            "Steve Loughran"
+        ],
+        "price": 30.11,
+        "stock": 6,
+        "EAN": 7543744885
+    },
+    {
+        "title": "Lucene in Action",
+        "isbn": "1932394281",
+        "publishedDate": "2004-12-01T00:00:00.000-0800",
+        "authors": [
+            "Erik Hatcher",
+            "Otis Gospodnetic"
+        ],
+        "price": 21.55,
+        "stock": 8,
+        "EAN": 7019913448
+    },
+    {
+        "title": "Lucene in Action, Second Edition",
+        "isbn": "1933988177",
+        "publishedDate": "2010-07-09T00:00:00.000-0700",
+        "authors": [
+            "Erik Hatcher",
+            "Otis Gospodnetic",
+            "Michael McCandless"
+        ],
+        "price": 26.99,
+        "stock": 5,
+        "EAN": 9072183042
+    },
+    {
+        "title": "PowerBuilder 6.0 Questions & Answers",
+        "isbn": "1884777708",
+        "publishedDate": "1998-07-01T00:00:00.000-0700",
+        "authors": [
+            "Tim Hatton"
+        ],
+        "price": 33.36,
+        "stock": 7,
+        "EAN": 8048404385
+    },
+    {
+        "title": "The Awesome Power of PowerJ",
+        "isbn": "1884777538",
+        "publishedDate": "1998-05-01T00:00:00.000-0700",
+        "authors": [
+            "Tim Hatton"
+        ],
+        "price": 25.51,
+        "stock": 2,
+        "EAN": 9644233458
+    },
+    {
+        "title": "The Awesome Power of Power++",
+        "isbn": "1884777546",
+        "publishedDate": "1998-06-01T00:00:00.000-0700",
+        "authors": [
+            "Tim Hatton"
+        ],
+        "price": 12.78,
+        "stock": 4,
+        "EAN": 5187734199
+    },
+    {
+        "title": "Azure in Action",
+        "isbn": "193518248X",
+        "publishedDate": "2010-10-22T00:00:00.000-0700",
+        "authors": [
+            "Chris Hay",
+            "Brian H. Prince"
+        ],
+        "price": 15.71,
+        "stock": 8,
+        "EAN": 9975109849
+    },
+    {
+        "title": "Metaprogramming in .NET",
+        "isbn": "1617290262",
+        "publishedDate": "2012-12-31T00:00:00.000-0800",
+        "authors": [
+            "Kevin Hazzard",
+            "Jason Bock"
+        ],
+        "price": 28.65,
+        "stock": 5,
+        "EAN": 6745259578
+    },
+    {
+        "title": "Code Generation in Action",
+        "isbn": "1930110979",
+        "publishedDate": "2003-07-01T00:00:00.000-0700",
+        "authors": [
+            "Jack Herrington"
+        ],
+        "price": 18.23,
+        "stock": 1,
+        "EAN": 8093368198
+    },
+    {
+        "title": "Illustrated Guide to HTTP",
+        "isbn": "138582262",
+        "publishedDate": "1997-03-01T00:00:00.000-0800",
+        "authors": [
+            "Paul S. Hethmon"
+        ],
+        "price": 43.48,
+        "stock": 10,
+        "EAN": 4312692069
+    },
+    {
+        "title": "Agile ALM",
+        "isbn": "1935182633",
+        "publishedDate": "2011-08-20T00:00:00.000-0700",
+        "authors": [
+            "Michael H\u00fcttermann"
+        ],
+        "price": 19.04,
+        "stock": 0,
+        "EAN": 2288671685
+    },
+    {
+        "title": "Java Network Programming, Second Edition",
+        "isbn": "188477749X",
+        "publishedDate": "1999-05-01T00:00:00.000-0700",
+        "authors": [
+            "Merlin Hughes",
+            "Michael Shoffner",
+            "Derek Hamner"
+        ],
+        "price": 23.06,
+        "stock": 5,
+        "EAN": 7408535090
+    },
+    {
+        "title": "Struts in Action",
+        "isbn": "1932394249",
+        "publishedDate": "2002-10-01T00:00:00.000-0700",
+        "authors": [
+            "Ted N. Husted",
+            "Cedric Dumoulin",
+            "George Franciscus",
+            "David Winterfeldt"
+        ],
+        "price": 32.54,
+        "stock": 0,
+        "EAN": 7334889530
+    },
+    {
+        "title": "Camel in Action",
+        "isbn": "1935182366",
+        "publishedDate": "2011-01-04T00:00:00.000-0800",
+        "authors": [
+            "Claus Ibsen",
+            "Jonathan Anstey"
+        ],
+        "price": 2.84,
+        "stock": 3,
+        "EAN": 3937418251
+    },
+    {
+        "title": "Taming Text",
+        "isbn": "193398838X",
+        "publishedDate": "2012-12-31T00:00:00.000-0800",
+        "authors": [
+            "Grant S. Ingersoll",
+            "Thomas S. Morton",
+            "Andrew L. Farris"
+        ],
+        "price": 28.09,
+        "stock": 2,
+        "EAN": 8908513044
+    },
+    {
+        "title": "JBoss in Action",
+        "isbn": "1933988029",
+        "publishedDate": "2009-01-01T00:00:00.000-0800",
+        "authors": [
+            "Javid Jamae",
+            "Peter Johnson"
+        ],
+        "price": 19.66,
+        "stock": 7,
+        "EAN": 1561426049
+    },
+    {
+        "title": "Gnuplot in Action",
+        "isbn": "1933988398",
+        "publishedDate": "2009-08-01T00:00:00.000-0700",
+        "authors": [
+            "Philipp K. Janert"
+        ],
+        "price": 7.53,
+        "stock": 9,
+        "EAN": 8950803474
+    },
+    {
+        "title": "Extending and Embedding Perl",
+        "isbn": "1930110820",
+        "publishedDate": "2002-08-01T00:00:00.000-0700",
+        "authors": [
+            "Tim Jenness",
+            "Simon Cozens"
+        ],
+        "price": 29.26,
+        "stock": 7,
+        "EAN": 5622769267
+    },
+    {
+        "title": "iOS 4 in Action",
+        "isbn": "1617290017",
+        "publishedDate": "2011-06-09T00:00:00.000-0700",
+        "authors": [
+            "Jocelyn Harrington",
+            "Brandon Trebitowski",
+            "Christopher Allen",
+            "Shannon Appelcline"
+        ],
+        "price": 19.97,
+        "stock": 2,
+        "EAN": 2305516794
+    },
+    {
+        "title": "Elements of Programming with Perl",
+        "isbn": "1884777805",
+        "publishedDate": "1999-10-01T00:00:00.000-0700",
+        "authors": [
+            "Andrew L. Johnson"
+        ],
+        "price": 32.44,
+        "stock": 5,
+        "EAN": 5043073375
+    },
+    {
+        "title": "Learn Windows PowerShell in a Month of Lunches",
+        "isbn": "1617290211",
+        "publishedDate": "2011-04-15T00:00:00.000-0700",
+        "authors": [
+            "Don Jones"
+        ],
+        "price": 34.65,
+        "stock": 7,
+        "EAN": 5543494786
+    },
+    {
+        "title": "R in Action",
+        "isbn": "1935182390",
+        "publishedDate": "2011-08-15T00:00:00.000-0700",
+        "authors": [
+            "Robert I. Kabacoff"
+        ],
+        "price": 15.62,
+        "stock": 1,
+        "EAN": 9496390124
+    },
+    {
+        "title": "SOA Security",
+        "isbn": "1932394680",
+        "publishedDate": "2007-12-01T00:00:00.000-0800",
+        "authors": [
+            "Ramarao Kanneganti",
+            "Prasad A. Chodavarapu"
+        ],
+        "price": 48.51,
+        "stock": 10,
+        "EAN": 5373869434
+    },
+    {
+        "title": "Rails 3 in Action",
+        "isbn": "1935182277",
+        "publishedDate": "2011-09-20T00:00:00.000-0700",
+        "authors": [
+            "Ryan Bigg",
+            "Yehuda Katz"
+        ],
+        "price": 13.41,
+        "stock": 8,
+        "EAN": 9261871086
+    },
+    {
+        "title": "Continuous Integration in .NET",
+        "isbn": "1935182552",
+        "publishedDate": "2011-03-14T00:00:00.000-0700",
+        "authors": [
+            "Marcin Kawalerowicz",
+            "Craig Berntson"
+        ],
+        "price": 28.67,
+        "stock": 4,
+        "EAN": 4683008229
+    },
+    {
+        "title": "Technology Paradise Lost",
+        "isbn": "1932394133",
+        "publishedDate": "2004-03-01T00:00:00.000-0800",
+        "authors": [
+            "Erik Keller"
+        ],
+        "price": 14.7,
+        "stock": 6,
+        "EAN": 5294895325
+    },
+    {
+        "title": "Kermit 95+",
+        "isbn": "1930110057",
+        "publishedDate": "2003-01-01T00:00:00.000-0800",
+        "authors": [
+            "Kermit Project at Columbia University"
+        ],
+        "price": 13.53,
+        "stock": 3,
+        "EAN": 8007119783
+    },
+    {
+        "title": "Laszlo in Action",
+        "isbn": "1932394834",
+        "publishedDate": "2008-01-01T00:00:00.000-0800",
+        "authors": [
+            "Norman Klein",
+            "Max Carlson with Glenn MacEwen"
+        ],
+        "price": 36.26,
+        "stock": 6,
+        "EAN": 5692632419
+    },
+    {
+        "title": "Groovy in Action",
+        "isbn": "1932394842",
+        "publishedDate": "2007-01-01T00:00:00.000-0800",
+        "authors": [
+            "Dierk Koenig with Andrew Glover",
+            "Paul King",
+            "Guillaume Laforge",
+            "Jon Skeet"
+        ],
+        "price": 40.73,
+        "stock": 7,
+        "EAN": 8184747051
+    },
+    {
+        "title": "Object Technology Centers of Excellence",
+        "isbn": "132612313",
+        "publishedDate": "1996-06-01T00:00:00.000-0700",
+        "authors": [
+            "Timothy D. Korson",
+            "Vijay K. Vaishnavi"
+        ],
+        "price": 4.24,
+        "stock": 0,
+        "EAN": 3272374622
+    },
+    {
+        "title": "Test Driven",
+        "isbn": "1932394850",
+        "publishedDate": "2007-09-01T00:00:00.000-0700",
+        "authors": [
+            "Lasse Koskela"
+        ],
+        "price": 20.02,
+        "stock": 2,
+        "EAN": 7062295627
+    },
+    {
+        "title": "Effective Unit Testing",
+        "isbn": "1935182579",
+        "publishedDate": "2013-02-04T00:00:00.000-0800",
+        "authors": [
+            "Lasse Koskela"
+        ],
+        "price": 45.1,
+        "stock": 2,
+        "EAN": 5835468461
+    },
+    {
+        "title": "Making Java Groovy",
+        "isbn": "1935182943",
+        "publishedDate": "2013-09-19T00:00:00.000-0700",
+        "authors": [
+            "Kenneth A. Kousen"
+        ],
+        "price": 15.09,
+        "stock": 1,
+        "EAN": 8751664492
+    },
+    {
+        "title": "The Awesome Power of Direct3D/DirectX",
+        "isbn": "1884777473",
+        "publishedDate": "2002-12-01T00:00:00.000-0800",
+        "authors": [
+            "Peter J. Kovach"
+        ],
+        "price": 34.87,
+        "stock": 0,
+        "EAN": 1510477965
+    },
+    {
+        "title": "Practical Software Requirements",
+        "isbn": "1884777597",
+        "publishedDate": "1998-09-01T00:00:00.000-0700",
+        "authors": [
+            "Benjamin L. Kovitz"
+        ],
+        "price": 40.35,
+        "stock": 3,
+        "EAN": 6855233806
+    },
+    {
+        "title": "NHibernate in Action",
+        "isbn": "1932394923",
+        "publishedDate": "2009-02-01T00:00:00.000-0800",
+        "authors": [
+            "Pierre Henri Kuate",
+            "Tobin Harris",
+            "Christian Bauer",
+            "Gavin King"
+        ],
+        "price": 4.24,
+        "stock": 6,
+        "EAN": 1911719770
+    },
+    {
+        "title": "Microsoft Reporting Services in Action",
+        "isbn": "1932394222",
+        "publishedDate": "2004-08-01T00:00:00.000-0700",
+        "authors": [
+            "Teo Lachev"
+        ],
+        "price": 36.55,
+        "stock": 1,
+        "EAN": 6060746546
+    },
+    {
+        "title": "AspectJ in Action",
+        "isbn": "1930110936",
+        "publishedDate": "2003-07-01T00:00:00.000-0700",
+        "authors": [
+            "Ramnivas Laddad"
+        ],
+        "price": 4.46,
+        "stock": 6,
+        "EAN": 9586404157
+    },
+    {
+        "title": "AspectJ in Action, Second Edition",
+        "isbn": "1933988053",
+        "publishedDate": "2009-09-01T00:00:00.000-0700",
+        "authors": [
+            "Ramnivas Laddad"
+        ],
+        "price": 14.28,
+        "stock": 2,
+        "EAN": 2672052279
+    },
+    {
+        "title": "Hadoop in Action",
+        "isbn": "1935182196",
+        "publishedDate": "2010-12-01T00:00:00.000-0800",
+        "authors": [
+            "Chuck Lam"
+        ],
+        "price": 14.05,
+        "stock": 3,
+        "EAN": 6398541569
+    },
+    {
+        "title": "SQR in PeopleSoft and Other Applications",
+        "isbn": "1884777775",
+        "publishedDate": "2003-09-01T00:00:00.000-0700",
+        "authors": [
+            "Galina",
+            "Vlad Landres"
+        ],
+        "price": 21.0,
+        "stock": 3,
+        "EAN": 6793725984
+    },
+    {
+        "title": "SQR in PeopleSoft and Other Applications, Second Edition",
+        "isbn": "1932394001",
+        "publishedDate": "2003-09-01T00:00:00.000-0700",
+        "authors": [
+            "Galina Landres",
+            "Vlad Landres"
+        ],
+        "price": 43.89,
+        "stock": 2,
+        "EAN": 2110486473
+    },
+    {
+        "title": "Tuscany SCA in Action",
+        "isbn": "1933988894",
+        "publishedDate": "2011-02-12T00:00:00.000-0800",
+        "authors": [
+            "Simon Laws",
+            "Mark Combellack",
+            "Raymond Feng",
+            "Haleh Mahbod",
+            "Simon Nash"
+        ],
+        "price": 27.91,
+        "stock": 10,
+        "EAN": 5599830768
+    },
+    {
+        "title": "Client/Server Yellow Pages",
+        "isbn": "1884777082",
+        "publishedDate": "1995-01-01T00:00:00.000-0800",
+        "authors": [
+            "Compiled",
+            "introduced by Ted Lewis"
+        ],
+        "price": 16.78,
+        "stock": 6,
+        "EAN": 4152580100
+    },
+    {
+        "title": "Object Oriented Application Frameworks",
+        "isbn": "1884777066",
+        "publishedDate": "1995-04-01T00:00:00.000-0800",
+        "authors": [
+            "Ted Lewis",
+            "friends"
+        ],
+        "price": 30.5,
+        "stock": 2,
+        "EAN": 4163629749
+    },
+    {
+        "title": "Tapestry in Action",
+        "isbn": "1932394117",
+        "publishedDate": "2004-03-01T00:00:00.000-0800",
+        "authors": [
+            "Howard M. Lewis Ship"
+        ],
+        "price": 13.57,
+        "stock": 3,
+        "EAN": 7592820497
+    },
+    {
+        "title": "WebWork in Action",
+        "isbn": "1932394532",
+        "publishedDate": "2005-09-01T00:00:00.000-0700",
+        "authors": [
+            "Patrick Lightbody",
+            "Jason Carreira"
+        ],
+        "price": 44.4,
+        "stock": 7,
+        "EAN": 1121458771
+    },
+    {
+        "title": "MacRuby in Action",
+        "isbn": "1935182498",
+        "publishedDate": "2012-04-11T00:00:00.000-0700",
+        "authors": [
+            "Brendan G. Lim with Jerry Cheung",
+            "Jeremy McAnally"
+        ],
+        "price": 49.55,
+        "stock": 1,
+        "EAN": 4980795325
+    },
+    {
+        "title": "Erlang and OTP in Action",
+        "isbn": "1933988789",
+        "publishedDate": "2010-11-16T00:00:00.000-0800",
+        "authors": [
+            "Martin Logan",
+            "Eric Merritt",
+            "Richard Carlsson"
+        ],
+        "price": 45.19,
+        "stock": 8,
+        "EAN": 7350534167
+    },
+    {
+        "title": "SharePoint 2007 Developer's Guide to Business Data Catalog",
+        "isbn": "1933988819",
+        "publishedDate": "2009-09-09T00:00:00.000-0700",
+        "authors": [
+            "Brett Lonsdale",
+            "Nick Swan"
+        ],
+        "price": 40.32,
+        "stock": 1,
+        "EAN": 8399203420
+    },
+    {
+        "title": "Doing IT Right",
+        "isbn": "133964256",
+        "publishedDate": "1995-12-01T00:00:00.000-0800",
+        "authors": [
+            "Harold Lorin"
+        ],
+        "price": 45.7,
+        "stock": 6,
+        "EAN": 8319216813
+    },
+    {
+        "title": "Adobe AIR in Action",
+        "isbn": "1933988487",
+        "publishedDate": "2008-07-01T00:00:00.000-0700",
+        "authors": [
+            "Joey Lott",
+            "Kathryn Rotondo",
+            "Sam Ahn",
+            "Ashley Atkins"
+        ],
+        "price": 48.44,
+        "stock": 7,
+        "EAN": 4913940150
+    },
+    {
+        "title": "Ant in Action",
+        "isbn": "193239480X",
+        "publishedDate": "2007-07-01T00:00:00.000-0700",
+        "authors": [
+            "Steve Loughran",
+            "Erik Hatcher"
+        ],
+        "price": 42.56,
+        "stock": 2,
+        "EAN": 3885995536
+    },
+    {
+        "title": "Restlet in Action",
+        "isbn": "193518234X",
+        "publishedDate": "2012-09-26T00:00:00.000-0700",
+        "authors": [
+            "Jerome Louvel",
+            "Thierry Boileau",
+            "Philippe Mougin"
+        ],
+        "price": 32.93,
+        "stock": 9,
+        "EAN": 3350089692
+    },
+    {
+        "title": "iText in Action",
+        "isbn": "1932394796",
+        "publishedDate": "2006-11-01T00:00:00.000-0800",
+        "authors": [
+            "Bruno Lowagie"
+        ],
+        "price": 2.04,
+        "stock": 4,
+        "EAN": 5450181844
+    },
+    {
+        "title": "iText in Action, Second Edition",
+        "isbn": "1935182617",
+        "publishedDate": "2010-11-22T00:00:00.000-0800",
+        "authors": [
+            "Bruno Lowagie"
+        ],
+        "price": 17.36,
+        "stock": 7,
+        "EAN": 7309058111
+    },
+    {
+        "title": "Power-3D",
+        "isbn": "138412146",
+        "publishedDate": "1997-10-01T00:00:00.000-0700",
+        "authors": [
+            "Kyle Lussier"
+        ],
+        "price": 25.65,
+        "stock": 6,
+        "EAN": 4747106814
+    },
+    {
+        "title": "SNA and TCP/IP Enterprise Networking",
+        "isbn": "131271687",
+        "publishedDate": "1997-09-01T00:00:00.000-0700",
+        "authors": [
+            "Daniel C. Lynch",
+            "James P. Gray",
+            "and Edward Rabinovitch",
+            "editors"
+        ],
+        "price": 7.73,
+        "stock": 6,
+        "EAN": 1264820206
+    },
+    {
+        "title": "Subversion in Action",
+        "isbn": "1932394478",
+        "publishedDate": "2004-12-01T00:00:00.000-0800",
+        "authors": [
+            "Jeffrey Machols"
+        ],
+        "price": 10.67,
+        "stock": 2,
+        "EAN": 2018404872
+    },
+    {
+        "title": "Minimal Perl",
+        "isbn": "1932394508",
+        "publishedDate": "2006-07-01T00:00:00.000-0700",
+        "authors": [
+            "Tim Maher"
+        ],
+        "price": 36.43,
+        "stock": 8,
+        "EAN": 6422874197
+    },
+    {
+        "title": "Distributed Programming with Java",
+        "isbn": "1884777651",
+        "publishedDate": "1999-09-01T00:00:00.000-0700",
+        "authors": [
+            "Qusay H. Mahmoud"
+        ],
+        "price": 20.79,
+        "stock": 7,
+        "EAN": 1163668037
+    },
+    {
+        "title": "Comprehensive Networking Glossary and Acronym Guide",
+        "isbn": "013319955X",
+        "publishedDate": "1995-01-01T00:00:00.000-0800",
+        "authors": [
+            "Gary Scott Malkin"
+        ],
+        "price": 38.11,
+        "stock": 1,
+        "EAN": 3737971818
+    },
+    {
+        "title": "JavaServer Faces in Action",
+        "isbn": "1932394125",
+        "publishedDate": "2004-11-01T00:00:00.000-0800",
+        "authors": [
+            "Kito D. Mann"
+        ],
+        "price": 36.81,
+        "stock": 4,
+        "EAN": 1560464902
+    },
+    {
+        "title": "LINQ in Action",
+        "isbn": "1933988169",
+        "publishedDate": "2008-01-01T00:00:00.000-0800",
+        "authors": [
+            "Fabrice Marguerie",
+            "Steve Eichert",
+            "Jim Wooley"
+        ],
+        "price": 26.13,
+        "stock": 6,
+        "EAN": 5694070879
+    },
+    {
+        "title": "Internet BBSs",
+        "isbn": "132869985",
+        "publishedDate": "1996-10-01T00:00:00.000-0700",
+        "authors": [
+            "Richard Scott Mark"
+        ],
+        "price": 15.74,
+        "stock": 8,
+        "EAN": 1116106303
+    },
+    {
+        "title": "Algorithms of the Intelligent Web",
+        "isbn": "1933988665",
+        "publishedDate": "2009-05-29T00:00:00.000-0700",
+        "authors": [
+            "Haralambos Marmanis",
+            "Dmitry Babenko"
+        ],
+        "price": 29.78,
+        "stock": 9,
+        "EAN": 7970087130
+    },
+    {
+        "title": "JUnit in Action",
+        "isbn": "1930110995",
+        "publishedDate": "2003-10-01T00:00:00.000-0700",
+        "authors": [
+            "Vincent Massol with Ted Husted"
+        ],
+        "price": 10.16,
+        "stock": 8,
+        "EAN": 6401531786
+    },
+    {
+        "title": "Tika in Action",
+        "isbn": "1935182854",
+        "publishedDate": "2011-12-01T00:00:00.000-0800",
+        "authors": [
+            "Chris A. Mattmann",
+            "Jukka L. Zitting"
+        ],
+        "price": 43.91,
+        "stock": 9,
+        "EAN": 2723357607
+    },
+    {
+        "title": "Ruby in Practice",
+        "isbn": "1933988479",
+        "publishedDate": "2009-03-01T00:00:00.000-0800",
+        "authors": [
+            "Jeremy McAnally",
+            "Assaf Arkin"
+        ],
+        "price": 36.73,
+        "stock": 5,
+        "EAN": 5770464642
+    },
+    {
+        "title": "Inside LotusScript",
+        "isbn": "1884777481",
+        "publishedDate": "1997-11-01T00:00:00.000-0800",
+        "authors": [
+            "Joe McGinn"
+        ],
+        "price": 42.12,
+        "stock": 6,
+        "EAN": 3522616791
+    },
+    {
+        "title": "Maximum MIDI",
+        "isbn": "1884777449",
+        "publishedDate": "1997-08-01T00:00:00.000-0700",
+        "authors": [
+            "Paul Messick"
+        ],
+        "price": 35.82,
+        "stock": 8,
+        "EAN": 9330570881
+    },
+    {
+        "title": "Planning and Managing ATM Networks",
+        "isbn": "132621894",
+        "publishedDate": "1997-06-01T00:00:00.000-0700",
+        "authors": [
+            "Daniel Minoli",
+            "Thomas W. Golway",
+            "Norris P. Smith"
+        ],
+        "price": 24.83,
+        "stock": 5,
+        "EAN": 2552800265
+    },
+    {
+        "title": "Client/Server Applications on ATM Networks",
+        "isbn": "137353006",
+        "publishedDate": "1997-01-01T00:00:00.000-0800",
+        "authors": [
+            "Daniel Minoli",
+            "Andrew Schmidt"
+        ],
+        "price": 43.24,
+        "stock": 5,
+        "EAN": 1021693856
+    },
+    {
+        "title": "JavaFX in Action",
+        "isbn": "1933988991",
+        "publishedDate": "2009-10-01T00:00:00.000-0700",
+        "authors": [
+            "Simon Morris"
+        ],
+        "price": 20.67,
+        "stock": 9,
+        "EAN": 2188912670
+    },
+    {
+        "title": "Entity Framework 4 in Action",
+        "isbn": "1935182188",
+        "publishedDate": "2011-05-01T00:00:00.000-0700",
+        "authors": [
+            "Stefano Mostarda",
+            "Marco De Sanctis",
+            "Daniele Bochicchio"
+        ],
+        "price": 45.3,
+        "stock": 0,
+        "EAN": 4144250184
+    },
+    {
+        "title": "ASP.NET 2.0 Web Parts in Action",
+        "isbn": "193239477X",
+        "publishedDate": "2006-09-01T00:00:00.000-0700",
+        "authors": [
+            "Darren Neimke"
+        ],
+        "price": 39.82,
+        "stock": 8,
+        "EAN": 4788621973
+    },
+    {
+        "title": "Sass and Compass in Action",
+        "isbn": "1617290149",
+        "publishedDate": "2013-07-26T00:00:00.000-0700",
+        "authors": [
+            "Wynn Netherland",
+            "Nathan Weizenbaum",
+            "Chris Eppstein",
+            "Brandon Mathis"
+        ],
+        "price": 12.28,
+        "stock": 8,
+        "EAN": 7120793431
+    },
+    {
+        "title": "Core OWL 5.0",
+        "isbn": "1884777503",
+        "publishedDate": "1997-12-01T00:00:00.000-0800",
+        "authors": [
+            "Ted Neward"
+        ],
+        "price": 33.15,
+        "stock": 3,
+        "EAN": 5072046563
+    },
+    {
+        "title": "Advanced OWL 5.0",
+        "isbn": "1884777465",
+        "publishedDate": "1998-01-01T00:00:00.000-0800",
+        "authors": [
+            "Ted Neward"
+        ],
+        "price": 8.6,
+        "stock": 0,
+        "EAN": 2312445349
+    },
+    {
+        "title": "Server-Based Java Programming",
+        "isbn": "1884777716",
+        "publishedDate": "2000-06-01T00:00:00.000-0700",
+        "authors": [
+            "Ted Neward"
+        ],
+        "price": 14.54,
+        "stock": 1,
+        "EAN": 9576737009
+    },
+    {
+        "title": "SQL Server MVP Deep Dives",
+        "isbn": "1935182048",
+        "publishedDate": "2009-11-01T00:00:00.000-0700",
+        "authors": [
+            "Contributions from 53 SQL Server MVPs",
+            "Edited by Paul Nielsen",
+            "Kalen Delaney",
+            "Greg Low",
+            "Adam Machanic",
+            "Paul S. Randal",
+            "Kimberly L. Tripp"
+        ],
+        "price": 36.4,
+        "stock": 2,
+        "EAN": 8757232506
+    },
+    {
+        "title": "SQL Server MVP Deep Dives",
+        "isbn": "9781935182047",
+        "publishedDate": "2009-11-15T00:00:00.000-0800",
+        "authors": [
+            "Contributions from 53 SQL Server MVPs; Edited by Paul Nielsen",
+            "Kalen Delaney",
+            "Greg Low",
+            "Adam Machanic",
+            "Paul S. Randal",
+            "",
+            "Kimberly L. Tripp"
+        ],
+        "price": 14.5,
+        "stock": 8,
+        "EAN": 8603413762
+    },
+    {
+        "title": "SQL Server MVP Deep Dives",
+        "isbn": "9781935182047",
+        "publishedDate": "2009-11-01T00:00:00.000-0700",
+        "authors": [
+            "Paul Nielsen",
+            "Kalen Delaney",
+            "Greg Low",
+            "Adam Machanic",
+            "Paul S. Randal",
+            "",
+            "Kimberly L. Tripp"
+        ],
+        "price": 6.79,
+        "stock": 6,
+        "EAN": 7160600519
+    },
+    {
+        "title": "PostGIS in Action",
+        "isbn": "1935182269",
+        "publishedDate": "2011-04-11T00:00:00.000-0700",
+        "authors": [
+            "Regina O. Obe",
+            "Leo S. Hsu"
+        ],
+        "price": 44.5,
+        "stock": 10,
+        "EAN": 2457514829
+    },
+    {
+        "title": "Programming Mac OS X",
+        "isbn": "1930110855",
+        "publishedDate": "2003-01-01T00:00:00.000-0800",
+        "authors": [
+            "Kevin O'Malley"
+        ],
+        "price": 45.43,
+        "stock": 0,
+        "EAN": 8748400105
+    },
+    {
+        "title": "The Art of Unit Testing",
+        "isbn": "1933988274",
+        "publishedDate": "2009-05-01T00:00:00.000-0700",
+        "authors": [
+            "Roy Osherove"
+        ],
+        "price": 18.82,
+        "stock": 2,
+        "EAN": 8833998230
+    },
+    {
+        "title": "Mahout in Action",
+        "isbn": "1935182684",
+        "publishedDate": "2011-10-05T00:00:00.000-0700",
+        "authors": [
+            "Sean Owen",
+            "Robin Anil",
+            "Ted Dunning",
+            "",
+            "Ellen Friedman"
+        ],
+        "price": 18.75,
+        "stock": 9,
+        "EAN": 1468742537
+    },
+    {
+        "title": "ASP.NET MVC in Action",
+        "isbn": "1933988622",
+        "publishedDate": "2009-09-01T00:00:00.000-0700",
+        "authors": [
+            "Jeffrey Palermo",
+            "Ben Scheirman",
+            "",
+            "Jimmy Bogard"
+        ],
+        "price": 35.44,
+        "stock": 9,
+        "EAN": 6217021510
+    },
+    {
+        "title": "ASP.NET MVC 2 in Action",
+        "isbn": "193518279X",
+        "publishedDate": "2010-06-01T00:00:00.000-0700",
+        "authors": [
+            "Jeffrey Palermo",
+            "Ben Scheirman",
+            "Jimmy Bogard",
+            "Eric Hexter",
+            "",
+            "Matthew Hinze"
+        ],
+        "price": 42.4,
+        "stock": 8,
+        "EAN": 6871452232
+    },
+    {
+        "title": "ASP.NET MVC 4 in Action",
+        "isbn": "1617290416",
+        "publishedDate": "2012-05-25T00:00:00.000-0700",
+        "authors": [
+            "Jeffrey Palermo",
+            "Jimmy Bogard",
+            "Eric Hexter",
+            "Matthew Hinze",
+            "",
+            "Jeremy Skinner"
+        ],
+        "price": 17.4,
+        "stock": 10,
+        "EAN": 7739190852
+    },
+    {
+        "title": "EJB 3 in Action",
+        "isbn": "1933988347",
+        "publishedDate": "2007-04-01T00:00:00.000-0700",
+        "authors": [
+            "Debu Panda",
+            "Reza Rahman",
+            "Derek Lane"
+        ],
+        "price": 41.3,
+        "stock": 6,
+        "EAN": 2903191117
+    },
+    {
+        "title": "EJB 3 in Action, Second Edition",
+        "isbn": "1935182994",
+        "publishedDate": "2014-04-07T00:00:00.000-0700",
+        "authors": [
+            "Debu Panda",
+            "Reza Rahman",
+            "Ryan Cuprak",
+            "",
+            "Michael Remijan"
+        ],
+        "price": 23.15,
+        "stock": 10,
+        "EAN": 4094058888
+    },
+    {
+        "title": "Explorer's Guide to the Semantic Web",
+        "isbn": "1932394206",
+        "publishedDate": "2004-06-01T00:00:00.000-0700",
+        "authors": [
+            "Thomas B. Passin"
+        ],
+        "price": 32.59,
+        "stock": 0,
+        "EAN": 3716524294
+    },
+    {
+        "title": "Practical LotusScript",
+        "isbn": "1884777767",
+        "publishedDate": "1999-05-01T00:00:00.000-0700",
+        "authors": [
+            "Anthony Patton"
+        ],
+        "price": 19.18,
+        "stock": 7,
+        "EAN": 4707468571
+    },
+    {
+        "title": "Domino Development with Java",
+        "isbn": "1930110049",
+        "publishedDate": "2000-08-01T00:00:00.000-0700",
+        "authors": [
+            "Anthony Patton"
+        ],
+        "price": 47.36,
+        "stock": 9,
+        "EAN": 8614818512
+    },
+    {
+        "title": "Windows PowerShell in Action",
+        "isbn": "1932394907",
+        "publishedDate": "2007-02-01T00:00:00.000-0800",
+        "authors": [
+            "Bruce Payette"
+        ],
+        "price": 15.29,
+        "stock": 1,
+        "EAN": 5745319584
+    },
+    {
+        "title": "Windows PowerShell in Action, Second Edition",
+        "isbn": "1935182137",
+        "publishedDate": "2011-05-15T00:00:00.000-0700",
+        "authors": [
+            "Bruce Payette"
+        ],
+        "price": 32.21,
+        "stock": 5,
+        "EAN": 2037763892
+    },
+    {
+        "title": "Silverlight 4 in Action, Revised Edition",
+        "isbn": "1935182374",
+        "publishedDate": "2010-10-04T00:00:00.000-0700",
+        "authors": [
+            "Pete Brown"
+        ],
+        "price": 5.42,
+        "stock": 3,
+        "EAN": 3993900415
+    },
+    {
+        "title": "Silverlight 5 in Action",
+        "isbn": "1617290319",
+        "publishedDate": "2012-06-01T00:00:00.000-0700",
+        "authors": [
+            "Pete Brown"
+        ],
+        "price": 35.73,
+        "stock": 10,
+        "EAN": 5817722414
+    },
+    {
+        "title": "Hibernate Quickly",
+        "isbn": "1932394419",
+        "publishedDate": "2005-08-01T00:00:00.000-0700",
+        "authors": [
+            "Patrick Peak",
+            "Nick Heudecker"
+        ],
+        "price": 11.05,
+        "stock": 0,
+        "EAN": 1296392934
+    },
+    {
+        "title": "Generative Art",
+        "isbn": "1935182625",
+        "publishedDate": "2011-06-30T00:00:00.000-0700",
+        "authors": [
+            "Matt Pearson"
+        ],
+        "price": 3.41,
+        "stock": 1,
+        "EAN": 1203488480
+    },
+    {
+        "title": "Windows Phone 7 in Action",
+        "isbn": "1617290092",
+        "publishedDate": "2012-08-21T00:00:00.000-0700",
+        "authors": [
+            "Timothy Binkley-Jones",
+            "Massimo Perga",
+            "",
+            "Michael Sync"
+        ],
+        "price": 5.23,
+        "stock": 10,
+        "EAN": 1262943986
+    },
+    {
+        "title": "Lift in Action",
+        "isbn": "1935182803",
+        "publishedDate": "2011-11-18T00:00:00.000-0800",
+        "authors": [
+            "Timothy Perrett"
+        ],
+        "price": 26.89,
+        "stock": 7,
+        "EAN": 3414105502
+    },
+    {
+        "title": "Web Development with Apache and Perl",
+        "isbn": "1930110065",
+        "publishedDate": "2002-04-01T00:00:00.000-0800",
+        "authors": [
+            "Theo Petersen"
+        ],
+        "price": 21.85,
+        "stock": 0,
+        "EAN": 2909395891
+    },
+    {
+        "title": "Real-World Functional Programming",
+        "isbn": "1933988924",
+        "publishedDate": "2009-12-01T00:00:00.000-0800",
+        "authors": [
+            "Tomas Petricek with Jon Skeet"
+        ],
+        "price": 22.68,
+        "stock": 9,
+        "EAN": 7577214162
+    },
+    {
+        "title": "Machine Learning in Action",
+        "isbn": "1617290181",
+        "publishedDate": "2012-04-04T00:00:00.000-0700",
+        "authors": [
+            "Peter Harrington"
+        ],
+        "price": 43.61,
+        "stock": 9,
+        "EAN": 3660386980
+    },
+    {
+        "title": "Dependency Injection",
+        "isbn": "193398855X",
+        "publishedDate": "2009-08-01T00:00:00.000-0700",
+        "authors": [
+            "Dhanji R. Prasanna"
+        ],
+        "price": 47.21,
+        "stock": 9,
+        "EAN": 8800861737
+    },
+    {
+        "title": "Understanding Enterprise SOA",
+        "isbn": "1932394591",
+        "publishedDate": "2005-11-01T00:00:00.000-0800",
+        "authors": [
+            "Eric Pulier and Hugh Taylor",
+            "Foreword by Paul Gaffney"
+        ],
+        "price": 20.62,
+        "stock": 8,
+        "EAN": 8950799803
+    },
+    {
+        "title": "Open-Source ESBs in Action",
+        "isbn": "1933988215",
+        "publishedDate": "2008-09-01T00:00:00.000-0700",
+        "authors": [
+            "Tijs Rademakers",
+            "Jos Dirksen"
+        ],
+        "price": 46.53,
+        "stock": 0,
+        "EAN": 6160381543
+    },
+    {
+        "title": "Activiti in Action",
+        "isbn": "1617290122",
+        "publishedDate": "2012-07-12T00:00:00.000-0700",
+        "authors": [
+            "Tijs Rademakers"
+        ],
+        "price": 20.57,
+        "stock": 9,
+        "EAN": 4989928325
+    },
+    {
+        "title": "DSLs in Boo: Domain-Specific Languages in .NET",
+        "isbn": "1933988606",
+        "publishedDate": "2010-01-01T00:00:00.000-0800",
+        "authors": [
+            "Oren Eini writing as Ayende Rahien"
+        ],
+        "price": 35.28,
+        "stock": 10,
+        "EAN": 8282104144
+    },
+    {
+        "title": "JUnit Recipes",
+        "isbn": "1932394230",
+        "publishedDate": "2004-07-01T00:00:00.000-0700",
+        "authors": [
+            "J. B. Rainsberger with contributions by Scott Stirling"
+        ],
+        "price": 29.04,
+        "stock": 10,
+        "EAN": 1972641814
+    },
+    {
+        "title": "wxPython in Action",
+        "isbn": "1932394621",
+        "publishedDate": "2006-03-01T00:00:00.000-0800",
+        "authors": [
+            "Noel Rappin",
+            "Robin Dunn"
+        ],
+        "price": 33.58,
+        "stock": 1,
+        "EAN": 9059106378
+    },
+    {
+        "title": "Clojure in Action",
+        "isbn": "1935182595",
+        "publishedDate": "2011-11-15T00:00:00.000-0800",
+        "authors": [
+            "Amit Rathore"
+        ],
+        "price": 19.58,
+        "stock": 6,
+        "EAN": 2711174275
+    },
+    {
+        "title": "Scala in Action",
+        "isbn": "1935182757",
+        "publishedDate": "2013-04-09T00:00:00.000-0700",
+        "authors": [
+            "Nilanjan Raychaudhuri"
+        ],
+        "price": 16.46,
+        "stock": 7,
+        "EAN": 9489592165
+    },
+    {
+        "title": "Working with Objects",
+        "isbn": "134529308",
+        "publishedDate": "1995-08-01T00:00:00.000-0700",
+        "authors": [
+            "Trygve Reenskaug"
+        ],
+        "price": 35.14,
+        "stock": 9,
+        "EAN": 5247107801
+    },
+    {
+        "title": "PHP in Action",
+        "isbn": "1932394753",
+        "publishedDate": "2007-07-01T00:00:00.000-0700",
+        "authors": [
+            "Dagfinn Reiers\u00f8l with Marcus Baker",
+            "Chris Shiflett"
+        ],
+        "price": 38.38,
+        "stock": 5,
+        "EAN": 4476469644
+    },
+    {
+        "title": "Secrets of the JavaScript Ninja",
+        "isbn": "193398869X",
+        "publishedDate": "2012-12-27T00:00:00.000-0800",
+        "authors": [
+            "John Resig"
+        ],
+        "price": 46.62,
+        "stock": 8,
+        "EAN": 9443487074
+    },
+    {
+        "title": "Microsoft Office Essentials",
+        "isbn": "132623129",
+        "publishedDate": "1996-07-01T00:00:00.000-0700",
+        "authors": [
+            "Ronny Richardson"
+        ],
+        "price": 49.58,
+        "stock": 4,
+        "EAN": 3800626513
+    },
+    {
+        "title": "Swing",
+        "isbn": "1884777848",
+        "publishedDate": "1999-12-01T00:00:00.000-0800",
+        "authors": [
+            "Matthew Robinson",
+            "Pavel Vorobiev"
+        ],
+        "price": 46.05,
+        "stock": 0,
+        "EAN": 6209577135
+    },
+    {
+        "title": "Swing Second Edition",
+        "isbn": "193011088X",
+        "publishedDate": "2003-02-01T00:00:00.000-0800",
+        "authors": [],
+        "price": 11.97,
+        "stock": 10,
+        "EAN": 4560629044
+    },
+    {
+        "title": "The Awesome Power of Java Beans",
+        "isbn": "1884777562",
+        "publishedDate": "1998-05-01T00:00:00.000-0700",
+        "authors": [
+            "Lawrence H. Rodrigues"
+        ],
+        "price": 49.94,
+        "stock": 7,
+        "EAN": 6679704532
+    },
+    {
+        "title": "Personal Videoconferencing",
+        "isbn": "013268327X",
+        "publishedDate": "1996-06-01T00:00:00.000-0700",
+        "authors": [
+            "Evan Rosen"
+        ],
+        "price": 12.22,
+        "stock": 7,
+        "EAN": 5668219380
+    },
+    {
+        "title": "The Cloud at Your Service",
+        "isbn": "1935182528",
+        "publishedDate": "2010-11-22T00:00:00.000-0800",
+        "authors": [
+            "Jothy Rosenberg",
+            "Arthur Mateos"
+        ],
+        "price": 39.58,
+        "stock": 5,
+        "EAN": 4479934427
+    },
+    {
+        "title": "Implementing Elliptic Curve Cryptography",
+        "isbn": "1884777694",
+        "publishedDate": "1998-11-01T00:00:00.000-0800",
+        "authors": [
+            "Michael Rosing"
+        ],
+        "price": 35.21,
+        "stock": 9,
+        "EAN": 7726622499
+    },
+    {
+        "title": "SOA Patterns",
+        "isbn": "1933988266",
+        "publishedDate": "2012-09-12T00:00:00.000-0700",
+        "authors": [
+            "Arnon Rotem-Gal-Oz"
+        ],
+        "price": 29.42,
+        "stock": 8,
+        "EAN": 3222265575
+    },
+    {
+        "title": "Hello World!",
+        "isbn": "1933988495",
+        "publishedDate": "2009-03-01T00:00:00.000-0800",
+        "authors": [
+            "Warren D. Sande",
+            "Carter Sande"
+        ],
+        "price": 47.21,
+        "stock": 2,
+        "EAN": 5645575161
+    },
+    {
+        "title": "SCBCD Exam Study Kit",
+        "isbn": "1932394400",
+        "publishedDate": "2005-06-01T00:00:00.000-0700",
+        "authors": [
+            "Paul Sanghera"
+        ],
+        "price": 33.82,
+        "stock": 9,
+        "EAN": 9673498777
+    },
+    {
+        "title": "Portlets in Action",
+        "isbn": "1935182544",
+        "publishedDate": "2011-09-16T00:00:00.000-0700",
+        "authors": [
+            "Ashish Sarin"
+        ],
+        "price": 19.13,
+        "stock": 3,
+        "EAN": 9864370226
+    },
+    {
+        "title": "SWT/JFace in Action",
+        "isbn": "1932394273",
+        "publishedDate": "2004-11-01T00:00:00.000-0800",
+        "authors": [
+            "Matthew Scarpino",
+            "Stephen Holder",
+            "Stanford Ng",
+            "",
+            "Laurent Mihalkovic"
+        ],
+        "price": 14.25,
+        "stock": 1,
+        "EAN": 5128009049
+    },
+    {
+        "title": "OpenCL in Action",
+        "isbn": "1617290173",
+        "publishedDate": "2011-11-14T00:00:00.000-0800",
+        "authors": [
+            "Matthew Scarpino"
+        ],
+        "price": 4.86,
+        "stock": 1,
+        "EAN": 2664611722
+    },
+    {
+        "title": "Multiprotocol over ATM",
+        "isbn": "138892709",
+        "publishedDate": "1998-03-01T00:00:00.000-0800",
+        "authors": [
+            "Andrew Schmidt",
+            "Daniel Minoli"
+        ],
+        "price": 9.91,
+        "stock": 5,
+        "EAN": 8819079932
+    },
+    {
+        "title": "Dependency Injection in .NET",
+        "isbn": "1935182501",
+        "publishedDate": "2011-10-03T00:00:00.000-0700",
+        "authors": [
+            "Mark Seemann"
+        ],
+        "price": 16.51,
+        "stock": 6,
+        "EAN": 4402276467
+    },
+    {
+        "title": "Java 3D Programming",
+        "isbn": "1930110359",
+        "publishedDate": "2002-03-01T00:00:00.000-0800",
+        "authors": [
+            "Daniel Selman"
+        ],
+        "price": 2.73,
+        "stock": 2,
+        "EAN": 6941842083
+    },
+    {
+        "title": "Liferay in Action",
+        "isbn": "193518282X",
+        "publishedDate": "2011-09-20T00:00:00.000-0700",
+        "authors": [
+            "Richard Sezov",
+            "Jr"
+        ],
+        "price": 37.61,
+        "stock": 2,
+        "EAN": 8104099099
+    },
+    {
+        "title": "JSP Tag Libraries",
+        "isbn": "193011009X",
+        "publishedDate": "2001-05-01T00:00:00.000-0700",
+        "authors": [
+            "Gal Shachor",
+            "Adam Chace",
+            "Magnus Rydin"
+        ],
+        "price": 40.42,
+        "stock": 0,
+        "EAN": 6476044052
+    },
+    {
+        "title": "Instant Messaging in Java",
+        "isbn": "1930110464",
+        "publishedDate": "2002-03-01T00:00:00.000-0800",
+        "authors": [
+            "Iain Shigeoka"
+        ],
+        "price": 41.39,
+        "stock": 7,
+        "EAN": 4509494885
+    },
+    {
+        "title": "Java Applets and Channels Without Programming",
+        "isbn": "1884777392",
+        "publishedDate": "1999-12-01T00:00:00.000-0800",
+        "authors": [
+            "Ronny Richardson",
+            "Michael Shoffner",
+            "Marq Singer",
+            "Bruce Murray",
+            "",
+            "Jack Gambol"
+        ],
+        "price": 11.78,
+        "stock": 0,
+        "EAN": 1838564950
+    },
+    {
+        "title": "PowerShell in Practice",
+        "isbn": "1935182005",
+        "publishedDate": "2010-06-08T00:00:00.000-0700",
+        "authors": [
+            "Richard Siddaway"
+        ],
+        "price": 45.77,
+        "stock": 7,
+        "EAN": 2155907305
+    },
+    {
+        "title": "PowerShell and WMI",
+        "isbn": "1617290114",
+        "publishedDate": "2012-04-30T00:00:00.000-0700",
+        "authors": [
+            "Richard Siddaway"
+        ],
+        "price": 9.1,
+        "stock": 4,
+        "EAN": 6794429823
+    },
+    {
+        "title": "Making Sense of Java",
+        "isbn": "132632942",
+        "publishedDate": "1996-06-01T00:00:00.000-0700",
+        "authors": [
+            "Bruce Simpson",
+            "John Mitchell",
+            "Brian Christeson",
+            "Rehan Zaidi",
+            "",
+            "Jonathan Levine"
+        ],
+        "price": 28.9,
+        "stock": 0,
+        "EAN": 8797603795
+    },
+    {
+        "title": "C++/CLI in Action",
+        "isbn": "1932394818",
+        "publishedDate": "2007-04-01T00:00:00.000-0700",
+        "authors": [
+            "Nishant Sivakumar"
+        ],
+        "price": 37.83,
+        "stock": 7,
+        "EAN": 8578372302
+    },
+    {
+        "title": "C# in Depth",
+        "isbn": "1933988363",
+        "publishedDate": "2008-04-01T00:00:00.000-0700",
+        "authors": [
+            "Jon Skeet"
+        ],
+        "price": 47.86,
+        "stock": 5,
+        "EAN": 3453683161
+    },
+    {
+        "title": "Magical A-Life Avatars",
+        "isbn": "1884777589",
+        "publishedDate": "2000-12-01T00:00:00.000-0800",
+        "authors": [
+            "Peter Small"
+        ],
+        "price": 14.38,
+        "stock": 7,
+        "EAN": 2197972658
+    },
+    {
+        "title": "Becoming Agile",
+        "isbn": "1933988258",
+        "publishedDate": "2009-05-01T00:00:00.000-0700",
+        "authors": [
+            "Greg Smith",
+            "Ahmed Sidky"
+        ],
+        "price": 42.14,
+        "stock": 8,
+        "EAN": 9814804482
+    },
+    {
+        "title": "ActiveMQ in Action",
+        "isbn": "1933988940",
+        "publishedDate": "2011-03-31T00:00:00.000-0700",
+        "authors": [
+            "Bruce Snyder",
+            "Dejan Bosanac",
+            "",
+            "Rob Davies"
+        ],
+        "price": 2.59,
+        "stock": 3,
+        "EAN": 1013696200
+    },
+    {
+        "title": "Implementing PeopleSoft Financials",
+        "isbn": "138411808",
+        "publishedDate": "1997-01-01T00:00:00.000-0800",
+        "authors": [
+            "Early Stephens"
+        ],
+        "price": 10.65,
+        "stock": 2,
+        "EAN": 6708089582
+    },
+    {
+        "title": "SQL Server DMVs in Action",
+        "isbn": "1935182730",
+        "publishedDate": "2011-05-09T00:00:00.000-0700",
+        "authors": [
+            "Ian W. Stirk"
+        ],
+        "price": 20.91,
+        "stock": 2,
+        "EAN": 5441811704
+    },
+    {
+        "title": "Scala in Depth",
+        "isbn": "1935182706",
+        "publishedDate": "2012-05-14T00:00:00.000-0700",
+        "authors": [
+            "Joshua D. Suereth"
+        ],
+        "price": 24.92,
+        "stock": 6,
+        "EAN": 5386022586
+    },
+    {
+        "title": "JMX in Action",
+        "isbn": "1930110561",
+        "publishedDate": "2002-09-01T00:00:00.000-0700",
+        "authors": [
+            "Benjamin G. Sullins",
+            "Mark B. Whipple"
+        ],
+        "price": 40.89,
+        "stock": 6,
+        "EAN": 6559646444
+    },
+    {
+        "title": "EJB Cookbook",
+        "isbn": "1930110944",
+        "publishedDate": "2003-05-01T00:00:00.000-0700",
+        "authors": [
+            "Benjamin G. Sullins",
+            "Mark B. Whipple"
+        ],
+        "price": 45.97,
+        "stock": 10,
+        "EAN": 3256691985
+    },
+    {
+        "title": "GWT in Action, Second Edition",
+        "isbn": "1935182846",
+        "publishedDate": "2013-01-21T00:00:00.000-0800",
+        "authors": [
+            "Adam Tacy",
+            "Robert Hanson",
+            "Jason Essington",
+            "",
+            "Anna T\u00f6kke"
+        ],
+        "price": 7.87,
+        "stock": 1,
+        "EAN": 2419596469
+    },
+    {
+        "title": "JUnit in Action, Second Edition",
+        "isbn": "1935182021",
+        "publishedDate": "2010-07-01T00:00:00.000-0700",
+        "authors": [
+            "Petar Tahchiev",
+            "Felipe Leme",
+            "Vincent Massol",
+            "",
+            "Gary Gregory"
+        ],
+        "price": 19.69,
+        "stock": 10,
+        "EAN": 8973514155
+    },
+    {
+        "title": "Bitter Java",
+        "isbn": "193011043X",
+        "publishedDate": "2002-03-01T00:00:00.000-0800",
+        "authors": [
+            "Bruce A. Tate"
+        ],
+        "price": 4.83,
+        "stock": 9,
+        "EAN": 5915933932
+    },
+    {
+        "title": "Bitter EJB",
+        "isbn": "1930110952",
+        "publishedDate": "2003-05-01T00:00:00.000-0700",
+        "authors": [
+            "Bruce Tate",
+            "Mike Clark",
+            "Bob Lee",
+            "Patrick Linskey"
+        ],
+        "price": 38.41,
+        "stock": 0,
+        "EAN": 5638529862
+    },
+    {
+        "title": "Spring Batch in Action",
+        "isbn": "1935182951",
+        "publishedDate": "2011-10-01T00:00:00.000-0700",
+        "authors": [
+            "Arnaud Cogoluegnes",
+            "Thierry Templier",
+            "Gary Gregory",
+            "Olivier Bazoud"
+        ],
+        "price": 22.12,
+        "stock": 7,
+        "EAN": 6263084993
+    },
+    {
+        "title": "JDK 1.4 Tutorial",
+        "isbn": "1930110456",
+        "publishedDate": "2002-03-01T00:00:00.000-0800",
+        "authors": [
+            "Gregory M. Travis"
+        ],
+        "price": 7.49,
+        "stock": 7,
+        "EAN": 3129903729
+    },
+    {
+        "title": "iPhone and iPad in Action",
+        "isbn": "1935182587",
+        "publishedDate": "2010-08-01T00:00:00.000-0700",
+        "authors": [
+            "Brandon Trebitowski",
+            "Christopher Allen",
+            "",
+            "Shannon Appelcline"
+        ],
+        "price": 35.43,
+        "stock": 2,
+        "EAN": 8599169229
+    },
+    {
+        "title": "SQL Server 2005 Reporting Services in Action",
+        "isbn": "1932394761",
+        "publishedDate": "2006-11-01T00:00:00.000-0800",
+        "authors": [
+            "Bret Updegraff"
+        ],
+        "price": 36.32,
+        "stock": 4,
+        "EAN": 1308431914
+    },
+    {
+        "title": "Ten Years of UserFriendly.Org",
+        "isbn": "1935182129",
+        "publishedDate": "2008-12-01T00:00:00.000-0800",
+        "authors": [
+            "JD \"Illiad\" Frazer"
+        ],
+        "price": 7.56,
+        "stock": 6,
+        "EAN": 5109760560
+    },
+    {
+        "title": "Graphics Programming with Perl",
+        "isbn": "1930110022",
+        "publishedDate": "2002-05-01T00:00:00.000-0700",
+        "authors": [
+            "Martien Verbruggen"
+        ],
+        "price": 45.38,
+        "stock": 4,
+        "EAN": 2276215508
+    },
+    {
+        "title": "RabbitMQ in Action",
+        "isbn": "1935182978",
+        "publishedDate": "2012-04-20T00:00:00.000-0700",
+        "authors": [
+            "Alvaro Videla",
+            "Jason J.W. Williams"
+        ],
+        "price": 6.63,
+        "stock": 3,
+        "EAN": 5584984809
+    },
+    {
+        "title": "XDoclet in Action",
+        "isbn": "1932394052",
+        "publishedDate": "2003-11-01T00:00:00.000-0800",
+        "authors": [
+            "Craig Walls",
+            "Norman Richards"
+        ],
+        "price": 34.7,
+        "stock": 6,
+        "EAN": 1269227115
+    },
+    {
+        "title": "Spring in Action",
+        "isbn": "1932394354",
+        "publishedDate": "2005-02-01T00:00:00.000-0800",
+        "authors": [
+            "Craig Walls",
+            "Ryan Breidenbach"
+        ],
+        "price": 12.88,
+        "stock": 0,
+        "EAN": 7973837556
+    },
+    {
+        "title": "Spring in Action, Second Edition",
+        "isbn": "1933988134",
+        "publishedDate": "2007-08-01T00:00:00.000-0700",
+        "authors": [
+            "Craig Walls with Ryan Breidenbach"
+        ],
+        "price": 49.76,
+        "stock": 0,
+        "EAN": 2504457764
+    },
+    {
+        "title": "Spring in Action, Third Edition",
+        "isbn": "1935182358",
+        "publishedDate": "2011-06-21T00:00:00.000-0700",
+        "authors": [
+            "Craig Walls"
+        ],
+        "price": 14.53,
+        "stock": 4,
+        "EAN": 1060153436
+    },
+    {
+        "title": "Spring in Practice",
+        "isbn": "1935182056",
+        "publishedDate": "2013-05-09T00:00:00.000-0700",
+        "authors": [
+            "Willie Wheeler with Joshua White"
+        ],
+        "price": 7.7,
+        "stock": 8,
+        "EAN": 3181534347
+    },
+    {
+        "title": "Java 2 Micro Edition",
+        "isbn": "1930110332",
+        "publishedDate": "2002-03-01T00:00:00.000-0800",
+        "authors": [
+            "James P. White",
+            "David A. Hemphill"
+        ],
+        "price": 5.05,
+        "stock": 8,
+        "EAN": 4170073930
+    },
+    {
+        "title": "SharePoint 2010 Workflows in Action",
+        "isbn": "1935182714",
+        "publishedDate": "2011-02-07T00:00:00.000-0800",
+        "authors": [
+            "Phil Wicklund"
+        ],
+        "price": 47.39,
+        "stock": 5,
+        "EAN": 4847295623
+    },
+    {
+        "title": "SharePoint 2010 Web Parts in Action",
+        "isbn": "1935182773",
+        "publishedDate": "2011-04-24T00:00:00.000-0700",
+        "authors": [
+            "Wictor Wil\u00e9n"
+        ],
+        "price": 25.34,
+        "stock": 3,
+        "EAN": 6326444759
+    },
+    {
+        "title": "C++ Concurrency in Action",
+        "isbn": "1933988770",
+        "publishedDate": "2012-02-24T00:00:00.000-0800",
+        "authors": [
+            "Anthony Williams"
+        ],
+        "price": 11.4,
+        "stock": 1,
+        "EAN": 7357423726
+    },
+    {
+        "title": "Java Servlets by Example",
+        "isbn": "188477766X",
+        "publishedDate": "2002-12-01T00:00:00.000-0800",
+        "authors": [
+            "Alan R. Williamson"
+        ],
+        "price": 43.06,
+        "stock": 9,
+        "EAN": 6431728204
+    },
+    {
+        "title": "XML Programming with VB and ASP",
+        "isbn": "1884777872",
+        "publishedDate": "1999-12-01T00:00:00.000-0800",
+        "authors": [
+            "Mark Wilson",
+            "Tracey Wilson"
+        ],
+        "price": 33.8,
+        "stock": 8,
+        "EAN": 4179334515
+    },
+    {
+        "title": "Oracle8i Database Administration",
+        "isbn": "1884777783",
+        "publishedDate": "1999-11-01T00:00:00.000-0800",
+        "authors": [
+            "Noel Yuhanna"
+        ],
+        "price": 8.73,
+        "stock": 4,
+        "EAN": 3793212483
+    },
+    {
+        "title": "Ext JS in Action, Second Edition",
+        "isbn": "1617290327",
+        "publishedDate": "2014-02-04T00:00:00.000-0800",
+        "authors": [
+            "Jesus Garcia",
+            "Grgur Grisogono",
+            "",
+            "Jacob K. Andresen"
+        ],
+        "price": 9.3,
+        "stock": 5,
+        "EAN": 6774322432
+    },
+    {
+        "title": "Android in Action, Third Edition",
+        "isbn": "1617290505",
+        "publishedDate": "2011-11-15T00:00:00.000-0800",
+        "authors": [
+            "W. Frank Ableson",
+            "Robi Sen",
+            "Chris King",
+            "C. Enrique Ortiz"
+        ],
+        "price": 43.29,
+        "stock": 7,
+        "EAN": 5652237984
+    },
+    {
+        "title": "Arduino in Action",
+        "isbn": "1617290246",
+        "publishedDate": "2013-05-30T00:00:00.000-0700",
+        "authors": [
+            "Martin Evans",
+            "Joshua Noble",
+            "",
+            "Jordan Hochenbaum"
+        ],
+        "price": 16.39,
+        "stock": 7,
+        "EAN": 7473916046
+    },
+    {
+        "title": "Node.js in Action",
+        "isbn": "1617290572",
+        "publishedDate": "2013-10-15T00:00:00.000-0700",
+        "authors": [
+            "Mike Cantelon",
+            "Marc Harter",
+            "T.J. Holowaychuk",
+            "",
+            "Nathan Rajlich"
+        ],
+        "price": 25.25,
+        "stock": 1,
+        "EAN": 7043643008
+    },
+    {
+        "title": "Third-Party JavaScript ",
+        "isbn": "1617290548",
+        "publishedDate": "2013-03-11T00:00:00.000-0700",
+        "authors": [
+            "Ben Vinegar",
+            "Anton Kovalyov"
+        ],
+        "price": 48.53,
+        "stock": 4,
+        "EAN": 4681013572
+    },
+    {
+        "title": "Multimedia Computing",
+        "isbn": "020152029X",
+        "publishedDate": "1993-09-01T00:00:00.000-0700",
+        "authors": [
+            "Matthew E. Hodges"
+        ],
+        "price": 19.3,
+        "stock": 5,
+        "EAN": 4479236802
+    },
+    {
+        "title": "Web Development with JavaServer Pages",
+        "isbn": "1884777996",
+        "publishedDate": "2000-05-15T00:00:00.000-0700",
+        "authors": [
+            "Duane K. Fields",
+            "Mark A. Kolb"
+        ],
+        "price": 21.11,
+        "stock": 7,
+        "EAN": 7139343677
+    },
+    {
+        "title": "Up to Speed with Swing",
+        "isbn": "1884777643",
+        "publishedDate": "1998-05-01T00:00:00.000-0700",
+        "authors": [
+            "Steven J. Gutz"
+        ],
+        "price": 35.09,
+        "stock": 10,
+        "EAN": 6301645960
+    },
+    {
+        "title": "Manager's Guide to Open Source",
+        "isbn": "193239429X",
+        "publishedDate": "2004-10-01T00:00:00.000-0700",
+        "authors": [
+            "Maria Winslow"
+        ],
+        "price": 30.86,
+        "stock": 3,
+        "EAN": 4616228652
+    },
+    {
+        "title": "Programming Web Services with Java",
+        "isbn": "1930110421",
+        "publishedDate": "2002-10-01T00:00:00.000-0700",
+        "authors": [
+            "Ajamu A. Wesley"
+        ],
+        "price": 23.6,
+        "stock": 8,
+        "EAN": 6414664592
+    },
+    {
+        "title": "TCP/IP Programming for OS/2",
+        "isbn": "132612496",
+        "publishedDate": "1996-04-23T00:00:00.000-0700",
+        "authors": [
+            "Steven J. Gutz"
+        ],
+        "price": 25.33,
+        "stock": 6,
+        "EAN": 9359271675
+    },
+    {
+        "title": "Implementing SAP R/3, Second Edition",
+        "isbn": "013889213X",
+        "publishedDate": "1997-09-01T00:00:00.000-0700",
+        "authors": [],
+        "price": 34.91,
+        "stock": 7,
+        "EAN": 1373897606
+    },
+    {
+        "title": "Implementing SAP R/3",
+        "isbn": "1884777228",
+        "publishedDate": "1996-06-01T00:00:00.000-0700",
+        "authors": [],
+        "price": 30.06,
+        "stock": 2,
+        "EAN": 5328578927
+    },
+    {
+        "title": "SCWCD Exam Study Kit",
+        "isbn": "1930110596",
+        "publishedDate": "2002-07-01T00:00:00.000-0700",
+        "authors": [
+            "Hanumant Deshmukh",
+            "Jignesh Malavia"
+        ],
+        "price": 3.58,
+        "stock": 10,
+        "EAN": 7024389480
+    },
+    {
+        "title": "CoffeeScript in Action",
+        "isbn": "1617290629",
+        "publishedDate": "2014-05-09T00:00:00.000-0700",
+        "authors": [
+            "Patrick Lee"
+        ],
+        "price": 43.97,
+        "stock": 0,
+        "EAN": 1795091376
+    },
+    {
+        "title": "SQL Server MVP Deep Dives, Volume 2",
+        "isbn": "1617290475",
+        "publishedDate": "2011-10-13T00:00:00.000-0700",
+        "authors": [
+            "Kalen Delaney",
+            "Louis Davidson",
+            "Greg Low",
+            "Brad McGehee",
+            "Paul Nielsen",
+            "Paul Randal",
+            "Kimberly Tripp"
+        ],
+        "price": 15.22,
+        "stock": 2,
+        "EAN": 2193977025
+    },
+    {
+        "title": "HTML5 in Action",
+        "isbn": "1617290491",
+        "publishedDate": "2014-02-10T00:00:00.000-0800",
+        "authors": [
+            "Rob Crowther",
+            "Joe Lennon",
+            "Ash Blue",
+            "",
+            "Greg Wanish"
+        ],
+        "price": 8.15,
+        "stock": 6,
+        "EAN": 8770583886
+    },
+    {
+        "title": "Hadoop in Practice",
+        "isbn": "1617290238",
+        "publishedDate": "2012-10-02T00:00:00.000-0700",
+        "authors": [
+            "Alex Holmes"
+        ],
+        "price": 23.49,
+        "stock": 0,
+        "EAN": 3593692598
+    },
+    {
+        "title": "HBase in Action",
+        "isbn": "1617290521",
+        "publishedDate": "2012-11-02T00:00:00.000-0700",
+        "authors": [
+            "Nicholas Dimiduk",
+            "Amandeep Khurana"
+        ],
+        "price": 19.08,
+        "stock": 0,
+        "EAN": 8155557039
+    },
+    {
+        "title": "Flex Mobile in Action",
+        "isbn": "1617290610",
+        "publishedDate": "2012-05-30T00:00:00.000-0700",
+        "authors": [
+            "Jonathan Campos"
+        ],
+        "price": 41.11,
+        "stock": 1,
+        "EAN": 5278236215
+    },
+    {
+        "title": "HTML5 for .NET Developers",
+        "isbn": "1617290432",
+        "publishedDate": "2012-11-30T00:00:00.000-0800",
+        "authors": [
+            "Jim Jackson",
+            "II",
+            "Ian Gilman"
+        ],
+        "price": 48.19,
+        "stock": 6,
+        "EAN": 4437561886
+    },
+    {
+        "title": "50 Android Hacks",
+        "isbn": "1617290564",
+        "publishedDate": "2013-06-03T00:00:00.000-0700",
+        "authors": [
+            "Carlos M. Sessa"
+        ],
+        "price": 37.73,
+        "stock": 4,
+        "EAN": 3288607728
+    },
+    {
+        "title": "PowerShell in Depth",
+        "isbn": "1617290556",
+        "publishedDate": "2013-02-20T00:00:00.000-0800",
+        "authors": [
+            "Don Jones",
+            "Richard Siddaway",
+            "",
+            "Jeffery Hicks"
+        ],
+        "price": 8.13,
+        "stock": 5,
+        "EAN": 5782235523
+    },
+    {
+        "title": "Linked Data",
+        "isbn": "1617290394",
+        "publishedDate": "2013-12-31T00:00:00.000-0800",
+        "authors": [
+            "David Wood",
+            "Marsha Zaidman",
+            "Luke Ruth",
+            "Michael Hausenblas"
+        ],
+        "price": 36.18,
+        "stock": 8,
+        "EAN": 2457118827
+    },
+    {
+        "title": "Mule in Action, Second Edition",
+        "isbn": "1617290823",
+        "publishedDate": "2014-02-20T00:00:00.000-0800",
+        "authors": [
+            "David Dossot",
+            "John D'Emic",
+            "Victor Romero"
+        ],
+        "price": 15.19,
+        "stock": 8,
+        "EAN": 6818100471
+    },
+    {
+        "title": "Single Page Web Applications",
+        "isbn": "1617290750",
+        "publishedDate": "2013-09-19T00:00:00.000-0700",
+        "authors": [
+            "Michael S. Mikowski",
+            "Josh C. Powell"
+        ],
+        "price": 2.3,
+        "stock": 4,
+        "EAN": 1176894467
+    },
+    {
+        "title": "The Art of Unit Testing, Second Edition",
+        "isbn": "1617290890",
+        "publishedDate": "2013-11-25T00:00:00.000-0800",
+        "authors": [
+            "Roy Osherove"
+        ],
+        "price": 43.77,
+        "stock": 10,
+        "EAN": 2948655436
+    },
+    {
+        "title": "Play for Java",
+        "isbn": "1617290904",
+        "publishedDate": "2014-03-14T00:00:00.000-0700",
+        "authors": [
+            "Nicolas Leroux",
+            "Sietse de Kaper"
+        ],
+        "price": 15.22,
+        "stock": 8,
+        "EAN": 1453511825
+    },
+    {
+        "title": "Hello World! Second Edition",
+        "isbn": "1617290920",
+        "publishedDate": "2013-12-12T00:00:00.000-0800",
+        "authors": [
+            "Warren Sande",
+            "Carter Sande"
+        ],
+        "price": 6.1,
+        "stock": 7,
+        "EAN": 7893696680
+    },
+    {
+        "title": "Dart in Action",
+        "isbn": "1617290866",
+        "publishedDate": "2012-12-31T00:00:00.000-0800",
+        "authors": [
+            "Chris Buckett"
+        ],
+        "price": 28.99,
+        "stock": 8,
+        "EAN": 7524915445
+    },
+    {
+        "title": "Redis in Action",
+        "isbn": "1617290858",
+        "publishedDate": "2013-06-18T00:00:00.000-0700",
+        "authors": [
+            "Josiah Carlson"
+        ],
+        "price": 30.24,
+        "stock": 10,
+        "EAN": 4855384455
+    },
+    {
+        "title": "Using the TI-83 Plus/TI-84 Plus",
+        "isbn": "161729084X",
+        "publishedDate": "2013-08-19T00:00:00.000-0700",
+        "authors": [
+            "Christopher R. Mitchell"
+        ],
+        "price": 46.37,
+        "stock": 2,
+        "EAN": 8561096871
+    },
+    {
+        "title": "Programming the TI-83 Plus/TI-84 Plus",
+        "isbn": "1617290777",
+        "publishedDate": "2012-09-14T00:00:00.000-0700",
+        "authors": [
+            "Christopher R. Mitchell"
+        ],
+        "price": 40.11,
+        "stock": 4,
+        "EAN": 3927869002
+    },
+    {
+        "title": "Play for Scala",
+        "isbn": "1617290793",
+        "publishedDate": "2013-10-03T00:00:00.000-0700",
+        "authors": [
+            "Peter Hilton",
+            "Erik Bakker",
+            "",
+            "Francisco Canedo"
+        ],
+        "price": 46.4,
+        "stock": 0,
+        "EAN": 7398937168
+    },
+    {
+        "title": "SonarQube in Action",
+        "isbn": "1617290955",
+        "publishedDate": "2013-10-30T00:00:00.000-0700",
+        "authors": [
+            "G. Ann Campbell",
+            "Patroklos P. Papapetrou"
+        ],
+        "price": 2.68,
+        "stock": 6,
+        "EAN": 4632664698
+    },
+    {
+        "title": "Windows Store App Development: C# and XAML",
+        "isbn": "1617290947",
+        "publishedDate": "2013-06-03T00:00:00.000-0700",
+        "authors": [
+            "Peter M. Brown"
+        ],
+        "price": 47.68,
+        "stock": 8,
+        "EAN": 8682208630
+    },
+    {
+        "title": "Learn Windows IIS in a Month of Lunches",
+        "isbn": "1617290971",
+        "publishedDate": "2013-12-31T00:00:00.000-0800",
+        "authors": [
+            "Jason C. Helmick"
+        ],
+        "price": 35.28,
+        "stock": 6,
+        "EAN": 3991125877
+    },
+    {
+        "title": "Extending jQuery",
+        "isbn": "161729103X",
+        "publishedDate": "2013-08-12T00:00:00.000-0700",
+        "authors": [
+            "Keith B. Wood"
+        ],
+        "price": 14.51,
+        "stock": 9,
+        "EAN": 7498302585
+    },
+    {
+        "title": "OCA Java SE 7 Programmer I Certification Guide",
+        "isbn": "1617291048",
+        "publishedDate": "2013-04-02T00:00:00.000-0700",
+        "authors": [
+            "Mala Gupta"
+        ],
+        "price": 37.56,
+        "stock": 10,
+        "EAN": 1443296497
+    },
+    {
+        "title": "Kanban in Action",
+        "isbn": "1617291056",
+        "publishedDate": "2014-03-04T00:00:00.000-0800",
+        "authors": [
+            "Marcus Hammarberg",
+            "Joakim Sunden"
+        ],
+        "price": 30.54,
+        "stock": 8,
+        "EAN": 2301800453
+    },
+    {
+        "title": "Solr in Action",
+        "isbn": "1617291021",
+        "publishedDate": "2014-03-25T00:00:00.000-0700",
+        "authors": [
+            "Trey Grainger",
+            "Timothy Potter"
+        ],
+        "price": 35.94,
+        "stock": 3,
+        "EAN": 8580548502
+    },
+    {
+        "title": "Making Sense of NoSQL",
+        "isbn": "1617291072",
+        "publishedDate": "2013-09-03T00:00:00.000-0700",
+        "authors": [
+            "Daniel G. McCreary",
+            "Ann M. Kelly"
+        ],
+        "price": 15.94,
+        "stock": 0,
+        "EAN": 3147951555
+    },
+    {
+        "title": "Jaguar Development with PowerBuilder 7",
+        "isbn": "1884777864",
+        "publishedDate": "1999-08-09T00:00:00.000-0700",
+        "authors": [
+            "MIchael Barlotta"
+        ],
+        "price": 24.43,
+        "stock": 1,
+        "EAN": 6576784199
+    },
+    {
+        "title": "Learn Windows PowerShell in a Month of Lunches, Second Edition",
+        "isbn": "1617291080",
+        "publishedDate": "2012-11-12T00:00:00.000-0800",
+        "authors": [
+            "Don Jones",
+            "Jeffery D. Hicks"
+        ],
+        "price": 20.45,
+        "stock": 7,
+        "EAN": 9327996192
+    },
+    {
+        "title": "AOP in .NET",
+        "isbn": "1617291145",
+        "publishedDate": "2013-06-21T00:00:00.000-0700",
+        "authors": [
+            "Matthew D. Groves"
+        ],
+        "price": 49.14,
+        "stock": 10,
+        "EAN": 3309925086
+    },
+    {
+        "title": "Learn PowerShell Toolmaking in a Month of Lunches",
+        "isbn": "1617291161",
+        "publishedDate": "2012-12-12T00:00:00.000-0800",
+        "authors": [
+            "Don Jones",
+            "Jeffery Hicks"
+        ],
+        "price": 36.77,
+        "stock": 1,
+        "EAN": 9385235601
+    },
+    {
+        "title": "The Mikado Method",
+        "isbn": "1617291218",
+        "publishedDate": "2014-03-05T00:00:00.000-0800",
+        "authors": [
+            "Ola Ellnestam",
+            "Daniel Brolund"
+        ],
+        "price": 11.84,
+        "stock": 7,
+        "EAN": 5265527488
+    },
+    {
+        "title": "Fast ASP.NET Websites",
+        "isbn": "1617291250",
+        "publishedDate": "2013-08-29T00:00:00.000-0700",
+        "authors": [
+            "Dean Alan Hume"
+        ],
+        "price": 48.17,
+        "stock": 6,
+        "EAN": 3195438921
+    },
+    {
+        "title": "Gradle in Action",
+        "isbn": "1617291307",
+        "publishedDate": "2014-02-18T00:00:00.000-0800",
+        "authors": [
+            "Benjamin Muschko"
+        ],
+        "price": 21.92,
+        "stock": 7,
+        "EAN": 8929900167
+    },
+    {
+        "title": "C# in Depth, Third Edition",
+        "isbn": "161729134X",
+        "publishedDate": "2013-09-19T00:00:00.000-0700",
+        "authors": [
+            "Jon Skeet"
+        ],
+        "price": 19.28,
+        "stock": 1,
+        "EAN": 4544535417
+    },
+    {
+        "title": "The Joy of Clojure, Second Edition",
+        "isbn": "1617291412",
+        "publishedDate": "2014-05-29T00:00:00.000-0700",
+        "authors": [
+            "Michael Fogus",
+            "Chris Houser"
+        ],
+        "price": 27.7,
+        "stock": 10,
+        "EAN": 8857268497
+    },
+    {
+        "title": "iOS 7 in Action",
+        "isbn": "1617291420",
+        "publishedDate": "2014-04-03T00:00:00.000-0700",
+        "authors": [
+            "Brendan G. Lim",
+            "Martin Conte Mac Donell"
+        ],
+        "price": 5.24,
+        "stock": 7,
+        "EAN": 6901576700
+    },
+    {
+        "title": "Ember.js in Action",
+        "isbn": "1617291455",
+        "publishedDate": "2014-06-10T00:00:00.000-0700",
+        "authors": [
+            "Joachim Haagen Skeie"
+        ],
+        "price": 4.92,
+        "stock": 10,
+        "EAN": 6896340467
+    },
+    {
+        "title": "Practical Data Science with R",
+        "isbn": "1617291560",
+        "publishedDate": "2014-04-02T00:00:00.000-0700",
+        "authors": [
+            "Nina Zumel",
+            "John Mount"
+        ],
+        "price": 41.03,
+        "stock": 9,
+        "EAN": 9165578919
+    }
+]

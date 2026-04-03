@@ -1,0 +1,527 @@
+[
+    {
+        "name": "Cereales chocolat 400g",
+        "date_limite_conso": "2023-07-20",
+        "price": 42.97,
+        "stock": 5,
+        "EAN": 5369561881
+    },
+    {
+        "name": "Cereales bio aux noisettes et au chocolat 375g",
+        "date_limite_conso": "2023-07-10",
+        "price": 17.49,
+        "stock": 3,
+        "EAN": 3923414537
+    },
+    {
+        "name": "Cereales Flocons d'avoine 500g",
+        "date_limite_conso": "2023-07-21",
+        "price": 42.28,
+        "stock": 7,
+        "EAN": 2919188044
+    },
+    {
+        "name": "Cereales bio petales au chocolat 375g",
+        "date_limite_conso": "2023-07-19",
+        "price": 27.76,
+        "stock": 4,
+        "EAN": 1502034488
+    },
+    {
+        "name": "Cereales chocolat au Lait 620g",
+        "date_limite_conso": "2023-08-27",
+        "price": 49.64,
+        "stock": 8,
+        "EAN": 4676199128
+    },
+    {
+        "name": "Cereales frosties 620g",
+        "date_limite_conso": "2023-06-14",
+        "price": 14.99,
+        "stock": 5,
+        "EAN": 3666114608
+    },
+    {
+        "name": "Cereales coco pops 550g",
+        "date_limite_conso": "2023-07-22",
+        "price": 26.61,
+        "stock": 3,
+        "EAN": 7628928076
+    },
+    {
+        "name": "Cereales au chocolat 750g",
+        "date_limite_conso": "2023-08-25",
+        "price": 19.42,
+        "stock": 0,
+        "EAN": 5960530991
+    },
+    {
+        "name": "Cereales tresor chocolat 620g",
+        "date_limite_conso": "2023-08-18",
+        "price": 16.78,
+        "stock": 3,
+        "EAN": 1050290736
+    },
+    {
+        "name": "Cereales caramel & chocolat 750g",
+        "date_limite_conso": "2023-07-09",
+        "price": 18.98,
+        "stock": 5,
+        "EAN": 4405596493
+    },
+    {
+        "name": "Cereales 6 mini-paquets (6)",
+        "date_limite_conso": "2023-08-08",
+        "price": 26.97,
+        "stock": 10,
+        "EAN": 8025032303
+    },
+    {
+        "name": "Cereales fourrage lait 400g",
+        "date_limite_conso": "2023-08-23",
+        "price": 36.43,
+        "stock": 6,
+        "EAN": 3635815941
+    },
+    {
+        "name": "Cereales mini cookies pepites de chocolat 375g",
+        "date_limite_conso": "2023-06-14",
+        "price": 36.5,
+        "stock": 0,
+        "EAN": 1372993368
+    },
+    {
+        "name": "Cereales bio boules au miel 375g",
+        "date_limite_conso": "2023-08-02",
+        "price": 2.16,
+        "stock": 6,
+        "EAN": 2517197889
+    },
+    {
+        "name": "Cereales bio ble souffle caramelise 375g",
+        "date_limite_conso": "2023-06-18",
+        "price": 35.11,
+        "stock": 8,
+        "EAN": 7216659399
+    },
+    {
+        "name": "Cereales bio chocolat coeur noisettes 375g",
+        "date_limite_conso": "2023-07-12",
+        "price": 45.33,
+        "stock": 6,
+        "EAN": 5638250749
+    },
+    {
+        "name": "Cereales bio riz souffle au chocolat 375g",
+        "date_limite_conso": "2023-06-11",
+        "price": 21.25,
+        "stock": 5,
+        "EAN": 1377427996
+    },
+    {
+        "name": "Cereales petales ble chocolat 750g",
+        "date_limite_conso": "2023-09-05",
+        "price": 35.72,
+        "stock": 10,
+        "EAN": 6861754889
+    },
+    {
+        "name": "Cereales choco rice 375g",
+        "date_limite_conso": "2023-07-11",
+        "price": 42.89,
+        "stock": 4,
+        "EAN": 1935948375
+    },
+    {
+        "name": "Cereales petales de ble complet au chocolat Bio 375g",
+        "date_limite_conso": "2023-08-09",
+        "price": 6.08,
+        "stock": 8,
+        "EAN": 6544389187
+    },
+    {
+        "name": "Farine de ble type 55 1kg",
+        "date_limite_conso": "2023-06-22",
+        "price": 6.07,
+        "stock": 9,
+        "EAN": 5448634438
+    },
+    {
+        "name": "Farine de ble fluide T45 1kg",
+        "date_limite_conso": "2023-07-05",
+        "price": 44.75,
+        "stock": 6,
+        "EAN": 8694032615
+    },
+    {
+        "name": "Farine de ble bio type 55 1kg",
+        "date_limite_conso": "2023-06-25",
+        "price": 48.68,
+        "stock": 3,
+        "EAN": 7236946518
+    },
+    {
+        "name": "Farine de ble T45 tout usage 1kg",
+        "date_limite_conso": "2023-08-03",
+        "price": 12.46,
+        "stock": 8,
+        "EAN": 4749108098
+    },
+    {
+        "name": "Farine de ble Bio T65 1kg",
+        "date_limite_conso": "2023-07-09",
+        "price": 24.68,
+        "stock": 4,
+        "EAN": 8778821539
+    },
+    {
+        "name": "Farine de sarrasin 1kg",
+        "date_limite_conso": "2023-08-28",
+        "price": 29.88,
+        "stock": 6,
+        "EAN": 6911131523
+    },
+    {
+        "name": "Farine de ble/pour gateaux T45 1kg",
+        "date_limite_conso": "2023-08-20",
+        "price": 15.77,
+        "stock": 8,
+        "EAN": 7548383087
+    },
+    {
+        "name": "Farine complete de riz sans gluten Bio 400g",
+        "date_limite_conso": "2023-07-27",
+        "price": 20.45,
+        "stock": 10,
+        "EAN": 7294501673
+    },
+    {
+        "name": "Farine de chataigne sans gluten Bio 350g",
+        "date_limite_conso": "2023-06-11",
+        "price": 41.03,
+        "stock": 7,
+        "EAN": 3573657681
+    },
+    {
+        "name": "Farine de ble blanche T55 1kg",
+        "date_limite_conso": "2023-07-19",
+        "price": 33.18,
+        "stock": 4,
+        "EAN": 6881757378
+    },
+    {
+        "name": "Farine a pizza T45 1kg",
+        "date_limite_conso": "2023-09-08",
+        "price": 29.75,
+        "stock": 10,
+        "EAN": 3148853795
+    },
+    {
+        "name": "Farine de mais sans gluten Bio 500g",
+        "date_limite_conso": "2023-07-17",
+        "price": 6.06,
+        "stock": 10,
+        "EAN": 6081235194
+    },
+    {
+        "name": "Farine pois chiche Sans Gluten Bio 500g",
+        "date_limite_conso": "2023-07-17",
+        "price": 18.35,
+        "stock": 3,
+        "EAN": 9507431482
+    },
+    {
+        "name": "Farine de sarrasin Bretagne Bio 500g",
+        "date_limite_conso": "2023-06-14",
+        "price": 16.11,
+        "stock": 9,
+        "EAN": 3169787393
+    },
+    {
+        "name": "Farine de manioc sans gluten Bio 400g",
+        "date_limite_conso": "2023-07-11",
+        "price": 42.19,
+        "stock": 8,
+        "EAN": 2063210608
+    },
+    {
+        "name": "Melange de farines tous usages sans gluten Bio 800g",
+        "date_limite_conso": "2023-08-28",
+        "price": 46.81,
+        "stock": 8,
+        "EAN": 8516194113
+    },
+    {
+        "name": "Farine de ble noir 1kg",
+        "date_limite_conso": "2023-07-31",
+        "price": 49.72,
+        "stock": 1,
+        "EAN": 3380230732
+    },
+    {
+        "name": "Farine ble complet d'epeautre T150 Bio 1kg",
+        "date_limite_conso": "2023-06-10",
+        "price": 3.19,
+        "stock": 6,
+        "EAN": 4090501412
+    },
+    {
+        "name": "Farine de ble dur 5kg",
+        "date_limite_conso": "2023-07-24",
+        "price": 5.17,
+        "stock": 7,
+        "EAN": 1833362277
+    },
+    {
+        "name": "Riz rond blanchi 1kg",
+        "date_limite_conso": "2023-06-20",
+        "price": 37.48,
+        "stock": 0,
+        "EAN": 3396053446
+    },
+    {
+        "name": "Riz Basmati 1kg",
+        "date_limite_conso": "2023-07-23",
+        "price": 47.45,
+        "stock": 3,
+        "EAN": 3347746815
+    },
+    {
+        "name": "Riz long grain incollable 10 min 1kg",
+        "date_limite_conso": "2023-06-22",
+        "price": 2.35,
+        "stock": 6,
+        "EAN": 7354228708
+    },
+    {
+        "name": "Riz basmati 12mn Bio 500g",
+        "date_limite_conso": "2023-09-08",
+        "price": 4.55,
+        "stock": 9,
+        "EAN": 2752135769
+    },
+    {
+        "name": "Riz Thai 1kg",
+        "date_limite_conso": "2023-07-05",
+        "price": 46.57,
+        "stock": 0,
+        "EAN": 3523952238
+    },
+    {
+        "name": "Riz Bio semi-complet IGP 15mn  500g",
+        "date_limite_conso": "2023-09-03",
+        "price": 5.45,
+        "stock": 1,
+        "EAN": 2017840796
+    },
+    {
+        "name": "Riz pour Risotto 15-18min 1kg",
+        "date_limite_conso": "2023-07-29",
+        "price": 45.09,
+        "stock": 9,
+        "EAN": 5315844118
+    },
+    {
+        "name": "Riz long grain, rouge complet, sauvage 500g",
+        "date_limite_conso": "2023-09-04",
+        "price": 44.58,
+        "stock": 0,
+        "EAN": 3335164370
+    },
+    {
+        "name": "Riz de Camargue 400g",
+        "date_limite_conso": "2023-08-10",
+        "price": 45.81,
+        "stock": 2,
+        "EAN": 6945780820
+    },
+    {
+        "name": "Riz long de Camargue complet etuve 400g",
+        "date_limite_conso": "2023-08-20",
+        "price": 27.91,
+        "stock": 7,
+        "EAN": 9180056551
+    },
+    {
+        "name": "Riz sushi Japonica 450g",
+        "date_limite_conso": "2023-07-24",
+        "price": 32.26,
+        "stock": 4,
+        "EAN": 9209781524
+    },
+    {
+        "name": "Riz special sushis 1kg",
+        "date_limite_conso": "2023-09-08",
+        "price": 8.44,
+        "stock": 9,
+        "EAN": 6391329049
+    },
+    {
+        "name": "Riz noir 18mns 500g",
+        "date_limite_conso": "2023-08-04",
+        "price": 47.52,
+        "stock": 10,
+        "EAN": 9645690638
+    },
+    {
+        "name": "Riz gluant THAI 5kg",
+        "date_limite_conso": "2023-08-22",
+        "price": 39.37,
+        "stock": 6,
+        "EAN": 5229545519
+    },
+    {
+        "name": "Riz rond special dessert 500g",
+        "date_limite_conso": "2023-08-13",
+        "price": 31.35,
+        "stock": 10,
+        "EAN": 9141399249
+    },
+    {
+        "name": "Couscous bio grains moyens 500g",
+        "date_limite_conso": "2023-08-02",
+        "price": 9.57,
+        "stock": 7,
+        "EAN": 3987582701
+    },
+    {
+        "name": "Couscous sachet cuisson (5)",
+        "date_limite_conso": "2023-08-01",
+        "price": 46.59,
+        "stock": 8,
+        "EAN": 5364895399
+    },
+    {
+        "name": "Couscous grain moyen 1kg",
+        "date_limite_conso": "2023-07-18",
+        "price": 6.8,
+        "stock": 0,
+        "EAN": 4665486875
+    },
+    {
+        "name": "Couscous parfume aux epices du monde 510g",
+        "date_limite_conso": "2023-08-21",
+        "price": 29.47,
+        "stock": 4,
+        "EAN": 1767778340
+    },
+    {
+        "name": "Couscous moyen 500g",
+        "date_limite_conso": "2023-07-28",
+        "price": 3.58,
+        "stock": 4,
+        "EAN": 4973334002
+    },
+    {
+        "name": "Semoule fine 500g",
+        "date_limite_conso": "2023-06-30",
+        "price": 45.86,
+        "stock": 7,
+        "EAN": 8959047734
+    },
+    {
+        "name": "Couscous bio semi-complet 500g",
+        "date_limite_conso": "2023-07-10",
+        "price": 14.16,
+        "stock": 4,
+        "EAN": 8169029176
+    },
+    {
+        "name": "Semoule extra fine 5kg",
+        "date_limite_conso": "2023-08-08",
+        "price": 5.04,
+        "stock": 10,
+        "EAN": 2760754908
+    },
+    {
+        "name": "Couscous ble complet 500g",
+        "date_limite_conso": "2023-07-31",
+        "price": 4.57,
+        "stock": 7,
+        "EAN": 1560614602
+    },
+    {
+        "name": "Biscuits tablette chocolat lait Pocket (10)",
+        "date_limite_conso": "2023-07-01",
+        "price": 22.78,
+        "stock": 4,
+        "EAN": 5188435272
+    },
+    {
+        "name": "Biscuits petit dejeuner chocolat (12)",
+        "date_limite_conso": "2023-07-03",
+        "price": 38.4,
+        "stock": 9,
+        "EAN": 8175160350
+    },
+    {
+        "name": "Gateaux Doonuts fourres chocolat (6)",
+        "date_limite_conso": "2023-08-12",
+        "price": 21.62,
+        "stock": 8,
+        "EAN": 2642996208
+    },
+    {
+        "name": "Gateaux Loops chocolat lait (6)",
+        "date_limite_conso": "2023-06-24",
+        "price": 12.82,
+        "stock": 9,
+        "EAN": 9116421228
+    },
+    {
+        "name": "Preparation gateau moelleux chocolat",
+        "date_limite_conso": "2023-07-23",
+        "price": 32.06,
+        "stock": 8,
+        "EAN": 7859389151
+    },
+    {
+        "name": "Biscuits petit dejeuner au chocolat Original (12)",
+        "date_limite_conso": "2023-08-16",
+        "price": 49.47,
+        "stock": 2,
+        "EAN": 1963666906
+    },
+    {
+        "name": "Biscuits fourres au chocolat au ble complet (3)",
+        "date_limite_conso": "2023-06-16",
+        "price": 7.73,
+        "stock": 6,
+        "EAN": 2778452422
+    },
+    {
+        "name": "Gateau Il Delicio Original (6)",
+        "date_limite_conso": "2023-09-03",
+        "price": 10.82,
+        "stock": 6,
+        "EAN": 1850359331
+    },
+    {
+        "name": "Biscuits barquettes chocolat noisette (6)",
+        "date_limite_conso": "2023-07-03",
+        "price": 49.43,
+        "stock": 0,
+        "EAN": 1667857263
+    },
+    {
+        "name": "Gateaux aux pepites de chocolat (10)",
+        "date_limite_conso": "2023-08-13",
+        "price": 20.4,
+        "stock": 8,
+        "EAN": 5034896271
+    },
+    {
+        "name": "Gateaux marbres chocolat (14)",
+        "date_limite_conso": "2023-07-27",
+        "price": 23.11,
+        "stock": 6,
+        "EAN": 3893319815
+    },
+    {
+        "name": "Gaufrettes fourrees pate a tartiner aux noisettes et cacao 330g",
+        "date_limite_conso": "2023-07-12",
+        "price": 3.87,
+        "stock": 6,
+        "EAN": 2107119941
+    }
+]
